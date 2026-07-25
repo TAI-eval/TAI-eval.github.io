@@ -9,7 +9,7 @@ use-site-title: true
 </div>
 
 
-# Speakers & Panelists
+# Confirmed Speakers & Panelists
 
 {% for p in site.data.speakers %}
 {% include speaker-bio.html p=p %}

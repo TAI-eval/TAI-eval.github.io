@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: TAI | NeurIPS 2026 Workshop
+title: TAE | NeurIPS 2026 Workshop
 
 # Short description of your site
 description: AI Evaluation
@@ -14,7 +14,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   Call: "cfp"
-  Speakers & Panelists: "speakers"
+  Confirmed Speakers & Panelists: "speakers"
   Papers: "papers"
   Schedule: "schedule"
 

@@ -41,7 +41,7 @@ We invite submissions on topics including, but not limited to:
 
 Submissions should be anonymized and prepared using the [official NeurIPS 2026 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip).
 
-Please use `\usepackage[dblblindworkshop]{neurips_2026}` for submission. For accepted camera-ready versions, please use `\usepackage[dblblindworkshop, final]{neurips_2026}`. The NeurIPS 2026 workshop template requires both `\title{}` and `\workshoptitle{}`; please set `\workshoptitle{Trust-AI-Eval (TAI): Can We Trust AI Evaluation?}`.
+Please use `\usepackage[dblblindworkshop]{neurips_2026}` for submission. For accepted camera-ready versions, please use `\usepackage[dblblindworkshop, final]{neurips_2026}`. The NeurIPS 2026 workshop template requires both `\title{}` and `\workshoptitle{}`; please set `\workshoptitle{TAE (Trust-AI-Eval): Can We Trust AI Evaluation?}`.
 
 - **Full papers:** up to 8 pages, excluding references and appendices.
 - **Appendices:** allowed, with no page limit, but reviewers are not required to read appendices.

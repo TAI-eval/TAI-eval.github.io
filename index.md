@@ -8,18 +8,9 @@ use-site-title: true
   NeurIPS 2026, Sydney, Australia, December 11 or 12, 2026
 </div>
 
-
-
-# News
-* The call for papers draft is available.
-* OpenReview submission site: TBA.
-* Workshop date, room, and final program: TBA.
-
-
-
 # Overview
 
-Can we trust AI evaluation? Modern AI systems are judged through benchmarks, aggregate scores, and public leaderboards, yet trust in these evaluations is often assumed rather than demonstrated. An evaluation can be precise but measure the wrong construct, stable on a familiar benchmark but brittle on newly collected data, or impressive on a leaderboard while poorly aligned with real-world decisions. Repeated benchmark use, small perturbations, underreported variance, leakage, and contamination can further weaken the evidence behind evaluation claims. The **Trust-AI-Eval (TAI): Can We Trust AI Evaluation?** workshop treats evaluation itself as an object of study: what is measured, which assumptions connect a protocol to a claim, how uncertainty and failure modes are reported, and when the resulting evidence is strong enough to guide deployment. By bringing together work on robustness, causal and measurement validity, auditing, judge reliability, and deployment risk, the workshop aims to clarify when AI evaluation results deserve trust and how evaluation practices can become more reliable, transparent, and decision-relevant.
+Can we trust AI evaluation? Modern AI systems are judged through benchmarks, aggregate scores, and public leaderboards, yet trust in these evaluations is often assumed rather than demonstrated. An evaluation can be precise but measure the wrong construct, stable on a familiar benchmark but brittle on newly collected data, or impressive on a leaderboard while poorly aligned with real-world decisions. Repeated benchmark use, small perturbations, underreported variance, leakage, and contamination can further weaken the evidence behind evaluation claims. The **TAE (Trust-AI-Eval): Can We Trust AI Evaluation?** workshop treats evaluation itself as an object of study: what is measured, which assumptions connect a protocol to a claim, how uncertainty and failure modes are reported, and when the resulting evidence is strong enough to guide deployment. By bringing together work on robustness, causal and measurement validity, auditing, judge reliability, and deployment risk, the workshop aims to clarify when AI evaluation results deserve trust and how evaluation practices can become more reliable, transparent, and decision-relevant.
 
 We invite submissions on topics including, but not limited to:
 
@@ -48,7 +39,7 @@ Accepted papers will be presented at the in-person poster session.
 
 <hr>
 
-# Speakers & Panelists
+# Confirmed Speakers & Panelists
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
     {% for p in site.data.speakers %}
