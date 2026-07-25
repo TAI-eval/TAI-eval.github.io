@@ -14,7 +14,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   Call: "cfp"
-  Confirmed Speakers & Panelists: "speakers"
+  Speakers & Panelists: "speakers"
   Papers: "papers"
   Schedule: "schedule"
 
