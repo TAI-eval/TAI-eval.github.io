@@ -50,7 +50,7 @@ All submissions must be submitted as a single PDF through OpenReview. The review
 
 All accepted papers will be presented in an in-person poster session. Accepted papers are to be considered **non-archival**.
 
-Submission site: TBA. If you have not already done so, we recommend creating an OpenReview profile as soon as possible, as new profile creation can take up to two weeks in some cases.
+Submission site: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/TAE). If you have not already done so, we recommend creating an OpenReview profile as soon as possible, as new profile creation can take up to two weeks in some cases.
 
 
 ### Reviewing Process

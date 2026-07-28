@@ -25,6 +25,8 @@ We invite submissions on topics including, but not limited to:
 
 See the [Call for Papers]({{ site.baseurl }}/cfp/) for details.
 
+Submissions will be managed through the [OpenReview submission site](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/TAE).
+
 Accepted papers will be presented at the in-person poster session.
 
 ### Important Dates (Indicative)
