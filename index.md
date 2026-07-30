@@ -31,7 +31,7 @@ Accepted papers will be presented at the in-person poster session.
 
 ### Important Dates (Indicative)
 
-**Paper submission opens:** TBA <br>
+**Paper submission opens:** July 30, 2026 <br>
 **Paper submission deadline:** August 29, 2026 (AoE) <br>
 **Review deadline:** September 14, 2026 (AoE) <br>
 **Author notification:** September 22, 2026 (AoE) <br>
