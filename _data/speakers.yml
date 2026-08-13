@@ -25,3 +25,10 @@ james_bailey:
   affiliation: "Monash University"
   img: "people/james-bailey.webp"
   bio: "James Bailey is a Professor and Head of Department of Data Science and Artificial Intelligence at Monash University. He has previously been an Australian Research Council Future Fellow and is a researcher in the field of machine learning and artificial intelligence, including interdisciplinary applications and operational frameworks. His interests particularly relate to the assurance, certification and safety of systems based on machine learning and artificial intelligence. He works on the deployment of AI systems in collaboration with a wide range of industry and government partners."
+
+julien_monteil:
+  name: "Julien Monteil"
+  url: "https://www.amazon.science/author/julien-monteil"
+  affiliation: "Amazon | International Machine Learning"
+  img: "people/julien-monteil.jpeg"
+  bio: "Dr Julien Monteil leads the Machine Learning team at Amazon International Machine Learning Australia, focusing on the research and development of generative AI solutions for Amazon customers globally. He has more than 13 years of post-PhD experience developing machine learning systems for customer-facing applications across retail, automotive, networking, and healthcare. He has developed and launched dozens of machine learning systems for Amazon, AWS, and IBM, including systems used by millions of customers each month. He has authored more than 50 peer-reviewed papers and holds more than 20 patents spanning machine learning, recommender systems, control, and transportation."
