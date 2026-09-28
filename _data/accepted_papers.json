@@ -1,0 +1,2278 @@
+[
+  {
+    "number": 2,
+    "title": "Compliance2LoRA: On-Demand Safety Alignment on Arbitrary Policy Subsets via Hypernetwork-Generated LoRA Adapters",
+    "authors": [
+      "Pankayaraj Pathmanathan",
+      "Furong Huang"
+    ],
+    "url": "https://openreview.net/forum?id=ivYOEK3Elr"
+  },
+  {
+    "number": 4,
+    "title": "Correct Scores, Wrong Conclusions: Auditing Forecasting Benchmarks on Chaotic Dynamics",
+    "authors": [
+      "Sriman Narayan Kandi",
+      "Trisanth Srinivasan"
+    ],
+    "url": "https://openreview.net/forum?id=ibk2qs7e0G"
+  },
+  {
+    "number": 7,
+    "title": "What Carries the Calibration Signal in Incremental Question Answering? A Pre-Specified Confirmatory Decomposition",
+    "authors": [
+      "Sarthak Tayal"
+    ],
+    "url": "https://openreview.net/forum?id=2OB7vsBQat"
+  },
+  {
+    "number": 11,
+    "title": "Ranking Under Biased Missingness: When Model Rank Is Not Identifiable from Sparse Leaderboards",
+    "authors": [
+      "Jung Min Kang"
+    ],
+    "url": "https://openreview.net/forum?id=JiCv1bYasi"
+  },
+  {
+    "number": 14,
+    "title": "MDI: The Minimum Detectable Improvement of an LLM Judge",
+    "authors": [
+      "Hyeong-seob Kim"
+    ],
+    "url": "https://openreview.net/forum?id=M1za7noKT5"
+  },
+  {
+    "number": 18,
+    "title": "Reinforcement Learning on Benign Facts Amplifies Leakage of Memorized Private Data",
+    "authors": [
+      "Renfei Zhang",
+      "Niloofar Mireshghallah"
+    ],
+    "url": "https://openreview.net/forum?id=plbwwNUdjR"
+  },
+  {
+    "number": 19,
+    "title": "PopResume: Causal Fairness Evaluation of LLM/VLM Resume Screeners with Population-Representative Dataset",
+    "authors": [
+      "Sumin Yu",
+      "Juhyeon Park",
+      "Taesup Moon"
+    ],
+    "url": "https://openreview.net/forum?id=BXoXvPioqK"
+  },
+  {
+    "number": 20,
+    "title": "The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion",
+    "authors": [
+      "Shreyas Pradeepkumar Khandale"
+    ],
+    "url": "https://openreview.net/forum?id=UXHMmg0nuh"
+  },
+  {
+    "number": 21,
+    "title": "Can We Trust Gating Weights? Auditing the Validity of Explanations in Latent-Dynamics Mixtures",
+    "authors": [
+      "Takayuki Shinohara"
+    ],
+    "url": "https://openreview.net/forum?id=fxNMDT7UWg"
+  },
+  {
+    "number": 24,
+    "title": "Can Model Similarity Verify a Machine Unlearning Action? Evidence from Cross-Auditor and Retraining Controls",
+    "authors": [
+      "Anton Sokolov"
+    ],
+    "url": "https://openreview.net/forum?id=QGaGckXq6o"
+  },
+  {
+    "number": 27,
+    "title": "Position: AI Evaluations Should be Grounded on a Theory of Capability",
+    "authors": [
+      "Nathanael Jo",
+      "Ashia C. Wilson"
+    ],
+    "url": "https://openreview.net/forum?id=vezGg2IkwR"
+  },
+  {
+    "number": 30,
+    "title": "Beyond TSTR: Tabular Foundation Models as Zero-Shot Evaluators of Synthetic Data Quality",
+    "authors": [
+      "Yan Li",
+      "Anders Krogh"
+    ],
+    "url": "https://openreview.net/forum?id=cSszJkQRF8"
+  },
+  {
+    "number": 32,
+    "title": "Correct Labels Are Not Enough: Reliable Metadata Can Silently Control Model Behavior",
+    "authors": [
+      "Renee Jia",
+      "Jinzhou Wu"
+    ],
+    "url": "https://openreview.net/forum?id=5aak2mHN2e"
+  },
+  {
+    "number": 38,
+    "title": "Weakly Discriminative, Not Repaired by Profile Injection, and Manipulable: Self-Confidence in LLM Evaluation",
+    "authors": [
+      "Vadym Chernets"
+    ],
+    "url": "https://openreview.net/forum?id=OyuZAAtv2q"
+  },
+  {
+    "number": 41,
+    "title": "Metrics That Write Themselves: Evolving an Evaluator from Its Own Blind Spots",
+    "authors": [
+      "Xing Zhang",
+      "Yanwei CUI",
+      "Guanghui Wang",
+      "Zhihao Lin",
+      "Peiyang He"
+    ],
+    "url": "https://openreview.net/forum?id=nDN0aOMbOu"
+  },
+  {
+    "number": 45,
+    "title": "Equal Questions, Unequal Allocation: When Cross-Language Cascade Metrics Change Meaning",
+    "authors": [
+      "Ranjita Naik"
+    ],
+    "url": "https://openreview.net/forum?id=YN4IPqkHx8"
+  },
+  {
+    "number": 48,
+    "title": "Similar Scores, Different High-Risk Episodes: Auditing Model Selection in Longitudinal EHRs",
+    "authors": [
+      "Polina Korobeinikova",
+      "Dmitry Lvov",
+      "Ilya Pershin"
+    ],
+    "url": "https://openreview.net/forum?id=RffArnWpec"
+  },
+  {
+    "number": 51,
+    "title": "Useful or Merely Different? Paired-Control Evaluation for Neural Conditioning of Language Models",
+    "authors": [
+      "Angelina Parfenova"
+    ],
+    "url": "https://openreview.net/forum?id=iReEQDBWio"
+  },
+  {
+    "number": 54,
+    "title": "Are We Measuring Anticipation?Auditing Privileged Information in Procedural Video Evaluation",
+    "authors": [
+      "Mahsa Mohammadi Eshkaftaki",
+      "Sareh Rowlands"
+    ],
+    "url": "https://openreview.net/forum?id=VzP143QTJn"
+  },
+  {
+    "number": 56,
+    "title": "What Breaks When Facts Become Stories? The Distortions Source-Agreement Metrics Miss When Models Retell Real Events",
+    "authors": [
+      "KWANGSUK PARK",
+      "JiWoong Yang",
+      "Vaniushkina Kseniia"
+    ],
+    "url": "https://openreview.net/forum?id=jYUo3Z5J5s"
+  },
+  {
+    "number": 57,
+    "title": "Q/R/M/C: An Intervention-Validated Evaluation Protocol for Memory-Based Agents",
+    "authors": [
+      "Zamotaev Rodion Sergeevich",
+      "Natalia Gusarova",
+      "Ivan Tomilov",
+      "Aleksandra Vatian"
+    ],
+    "url": "https://openreview.net/forum?id=oJjDExqOEo"
+  },
+  {
+    "number": 60,
+    "title": "Does Benchmark Correlation Predict Selection Quality for Protein Design?",
+    "authors": [
+      "Saanvi Skanda Subramanian"
+    ],
+    "url": "https://openreview.net/forum?id=KxSFpyRXzp"
+  },
+  {
+    "number": 62,
+    "title": "When the Judge Drifts: Separating Safety Behavior from Its Measurement Along a GRPO Trajectory",
+    "authors": [
+      "Muhammad Aaliyan",
+      "Ayesha Imran"
+    ],
+    "url": "https://openreview.net/forum?id=9h1KJUT0H5"
+  },
+  {
+    "number": 64,
+    "title": "When Attention Does Not Explain the Peak: Temporal Reference vs. Forecast Output in Attention-Based Time-Series Forecasting",
+    "authors": [
+      "Yuji Akamatsu",
+      "Takao Yamanaka"
+    ],
+    "url": "https://openreview.net/forum?id=ljt3kJMtiz"
+  },
+  {
+    "number": 69,
+    "title": "When the Leaderboard Winner Is Not the Most Grounded: Uncertainty-Aware, Multi-Criteria Evaluation of a Documentation RAG Assistant",
+    "authors": [
+      "Evgenii Palnikov",
+      "Elizaveta Gavrilova"
+    ],
+    "url": "https://openreview.net/forum?id=29SV4p7TJc"
+  },
+  {
+    "number": 70,
+    "title": "Detecting Contaminated Code-Generation Prompt Batches via Influence Functions",
+    "authors": [
+      "Francesco Quinzan",
+      "Noor Munir",
+      "Yishun Lu",
+      "S Roberts"
+    ],
+    "url": "https://openreview.net/forum?id=1YmkLAZNTP"
+  },
+  {
+    "number": 77,
+    "title": "Answer-Only Accuracy Measures the Wrong Construct: An Anti-Guessing Verification-Gap Protocol for Trustworthy Olympiad-Math Evaluation",
+    "authors": [
+      "Santiago Rivadeneira Quintero",
+      "Denys Pushkin",
+      "Emmanuel Abbe"
+    ],
+    "url": "https://openreview.net/forum?id=gOQk5WDD6f"
+  },
+  {
+    "number": 79,
+    "title": "Is Generative Content Ready to Ship? A Production-Scale Playbook",
+    "authors": [
+      "Malay Haldar",
+      "Yu Jin",
+      "Chin Hui Chew",
+      "Hongwei Zhang",
+      "Nalini Kartha",
+      "Winnie Xiong",
+      "Soumyadip Banerjee",
+      "Totte Harinen",
+      "Aditya Mukherji",
+      "Kedar Bellare",
+      "Phanindra Ganti",
+      "Stephanie Moyerman",
+      "Sanjeev Katariya"
+    ],
+    "url": "https://openreview.net/forum?id=TuXnON5VMX"
+  },
+  {
+    "number": 81,
+    "title": "Rethinking Hallucination in Large Language Models: A Legal Framework for Definition, Diagnosis, and Accountability",
+    "authors": [
+      "JIA-HONG HUANG",
+      "Chao-Chun Yang",
+      "Prayag Tiwari"
+    ],
+    "url": "https://openreview.net/forum?id=TXcIBT27m9"
+  },
+  {
+    "number": 85,
+    "title": "It's Not What the Image Shows: Irrelevant Context Destabilises VLM Judges Without Informing Them",
+    "authors": [
+      "Nagham Omar",
+      "Mahmoud Jabarin",
+      "Kinan Ibraheem",
+      "Lotem Peled-Cohen"
+    ],
+    "url": "https://openreview.net/forum?id=7ZwBl6v0c6"
+  },
+  {
+    "number": 86,
+    "title": "Retrieval Rankings Do Not Directly Identify Multimodal Latent Space Alignment",
+    "authors": [
+      "Eleonora Grassucci",
+      "Danilo Comminiello"
+    ],
+    "url": "https://openreview.net/forum?id=MNLF9zFVDU"
+  },
+  {
+    "number": 90,
+    "title": "What Does Fifty Days Stabilize? A Commit-Level Audit of ForecastBench",
+    "authors": [
+      "Daniel Alami"
+    ],
+    "url": "https://openreview.net/forum?id=Ta2wQdVTzP"
+  },
+  {
+    "number": 91,
+    "title": "Contaminated Ancestors: Seven Ways Our Own Evaluation Protocol Nearly Told Us the Wrong Thing",
+    "authors": [
+      "Christopher Yu-Hao Huang",
+      "Ryan Jaemin Ahn",
+      "Wenhao Lu"
+    ],
+    "url": "https://openreview.net/forum?id=UrCKmH8yqD"
+  },
+  {
+    "number": 93,
+    "title": "Dissociating Evaluation Awareness from Sandbagging in Open-Weight LLMs (0.5B–32B)",
+    "authors": [
+      "Jingting Huang",
+      "Zhengran Han"
+    ],
+    "url": "https://openreview.net/forum?id=DngPSKB4xy"
+  },
+  {
+    "number": 95,
+    "title": "BMMS: Policy-Conditioned Measurement of Behavioral Compliance in Language Models",
+    "authors": [
+      "Anthony Rhodes",
+      "Gadi Singer"
+    ],
+    "url": "https://openreview.net/forum?id=5AF0IR8UNH"
+  },
+  {
+    "number": 96,
+    "title": "LLM judges are easier to talk down than up: a Bayesian item response analysis",
+    "authors": [
+      "Guoyang Zheng",
+      "Susan Wei",
+      "Sevvandi Kandanaarachchi"
+    ],
+    "url": "https://openreview.net/forum?id=C4n0Zw0UTp"
+  },
+  {
+    "number": 97,
+    "title": "Rethinking Vacuity for OOD Detection in Evidential Deep Learning",
+    "authors": [
+      "Claire McNamara"
+    ],
+    "url": "https://openreview.net/forum?id=eS1qtyjpqN"
+  },
+  {
+    "number": 99,
+    "title": "Frozen LLMs as Recommenders for AutoML Pipeline Selection: Can We Trust the Evaluation?",
+    "authors": [
+      "Roman Neruda",
+      "Juan Carlos Figueroa Garcia",
+      "Carlos Alberto Franco Franco"
+    ],
+    "url": "https://openreview.net/forum?id=CSMJUdxkax"
+  },
+  {
+    "number": 100,
+    "title": "When Checks and Verdicts Disagree: Auditing Aggregation-Contract Fidelity in a Prompt-Structured LLM Judge Family",
+    "authors": [
+      "Mingda Yuan",
+      "Shu Huang",
+      "Tomas Ramanauskas"
+    ],
+    "url": "https://openreview.net/forum?id=HTMDeWvr13"
+  },
+  {
+    "number": 101,
+    "title": "Conditional Evaluation of Language Models with Cheap Auxiliary Signals",
+    "authors": [
+      "Zhi Zhang",
+      "Lingfeng Lyu",
+      "Yue Kang",
+      "Doudou Zhou"
+    ],
+    "url": "https://openreview.net/forum?id=iUZ2Xx7N81"
+  },
+  {
+    "number": 102,
+    "title": "Unreliability or Disagreement? What an Interpercentile Decomposition Can and Cannot Show",
+    "authors": [
+      "Pavan Kumar Dubasi"
+    ],
+    "url": "https://openreview.net/forum?id=esMA3Bmav8"
+  },
+  {
+    "number": 103,
+    "title": "Certified Rank-Stability: Risk-Controlling Leaderboard Claims Under Distribution Shift",
+    "authors": [
+      "ADITYA UPADHYAY",
+      "Arpan Verma",
+      "Chandan Sah",
+      "Dev Utkarsh Pal",
+      "Harshit Gupta"
+    ],
+    "url": "https://openreview.net/forum?id=bGQsv3g6sf"
+  },
+  {
+    "number": 108,
+    "title": "Can You Trust a Label-Free Reliability Estimate? An Estimability Threshold for Judge and Detector Panels Under Decision-Induced Censoring",
+    "authors": [
+      "Shiva Koreddi"
+    ],
+    "url": "https://openreview.net/forum?id=4iEUFDVg1I"
+  },
+  {
+    "number": 109,
+    "title": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
+    "authors": [
+      "Natalie Mackraz",
+      "Andrew Silva",
+      "Aini Putkonen",
+      "Brihi Joshi",
+      "Joelle Alcaidinho",
+      "Arnav Arora",
+      "Barry-John Theobald",
+      "Katherine Metcalf"
+    ],
+    "url": "https://openreview.net/forum?id=cyU5BnO6nN"
+  },
+  {
+    "number": 110,
+    "title": "Detecting and Mitigating Non-Deterministic Answer Flips for Reliable LLM Inference",
+    "authors": [
+      "Qitao Tan",
+      "Joymallya Chakraborty",
+      "Navaneet K L",
+      "Kushal Kumar",
+      "Nicolas Dormont",
+      "Vidit Bansal",
+      "Abhishek Dan"
+    ],
+    "url": "https://openreview.net/forum?id=cCsxk8wB8u"
+  },
+  {
+    "number": 111,
+    "title": "When Correctness Is Computable: Auditing AI Evaluators Against an Exact Oracle in Household Finance",
+    "authors": [
+      "Vignesh Coumarane"
+    ],
+    "url": "https://openreview.net/forum?id=Z0xznJxCZS"
+  },
+  {
+    "number": 112,
+    "title": "Label-free detection and mitigation of judge bias",
+    "authors": [
+      "Paul Albert",
+      "Quoc Phong Nguyen",
+      "Julien Monteil"
+    ],
+    "url": "https://openreview.net/forum?id=ciWblnAKGL"
+  },
+  {
+    "number": 115,
+    "title": "Defining Operational Conditions for Safety-Critical AI-Based Systems from Data",
+    "authors": [
+      "Johann Maximilian Christensen",
+      "Elena Hoemann",
+      "Frank Köster",
+      "Sven Hallerbach"
+    ],
+    "url": "https://openreview.net/forum?id=IRq8Xi80WW"
+  },
+  {
+    "number": 116,
+    "title": "Does the Proxy Preserve the Decision? A Stopping-Policy Audit of Multiple-Choice Reformulations of Incremental QA",
+    "authors": [
+      "Ankit Aggarwal"
+    ],
+    "url": "https://openreview.net/forum?id=k5GtuNv7Zo"
+  },
+  {
+    "number": 119,
+    "title": "Overwhelmed by Choice: Studying LLM Decision Making at Scale",
+    "authors": [
+      "Yu-Chi Lin",
+      "Aryan Seth",
+      "Anshul Aravind",
+      "Eugene Lee",
+      "Tanmay Parekh",
+      "Nanyun Peng",
+      "Kai-Wei Chang"
+    ],
+    "url": "https://openreview.net/forum?id=eLSJLIpGyc"
+  },
+  {
+    "number": 120,
+    "title": "“Uncertain” Is Uncertain: Prompt-Induced Abstention in VLMs Is Neither Stable Nor Human-Aligned",
+    "authors": [
+      "Fang Hao",
+      "Lu-Yan Wang",
+      "Shang-Hong Lai"
+    ],
+    "url": "https://openreview.net/forum?id=yRJLG6UmYo"
+  },
+  {
+    "number": 121,
+    "title": "Same Output, Different Gold: Measuring How Reference Choice Moves a Multilingual Benchmark Score",
+    "authors": [
+      "Parth Kulshreshtha",
+      "Shivali Dalmia",
+      "Abhishek Mukherji"
+    ],
+    "url": "https://openreview.net/forum?id=bTkQpuYmbE"
+  },
+  {
+    "number": 125,
+    "title": "The Evaluation Paradox: Why Capability Evaluations Run Uncontained, and Why Monitoring Does Not Fix It",
+    "authors": [
+      "Jaswanth Alkur"
+    ],
+    "url": "https://openreview.net/forum?id=XHv8kU9CKY"
+  },
+  {
+    "number": 126,
+    "title": "Voice or Stereotype? Disentangling Acoustic and Content-Based Gender in Speech-to-Speech Models",
+    "authors": [
+      "Xiaoqun Liu",
+      "Tanu Mitra",
+      "Harshit Rajgarhia",
+      "Abhishek Mukherji"
+    ],
+    "url": "https://openreview.net/forum?id=s0BAz5yzbF"
+  },
+  {
+    "number": 129,
+    "title": "Is the Circuit in the Model or in the Method? Spectral Identifiability for Mechanistic Evaluation",
+    "authors": [
+      "Ashim Dhor",
+      "Pin-Yu Chen"
+    ],
+    "url": "https://openreview.net/forum?id=mUCtwhdD71"
+  },
+  {
+    "number": 132,
+    "title": "BODYBENCH: Evaluating Adversarial Image Defenses Against AI Nudification Inpainting",
+    "authors": [
+      "Li Qiwei",
+      "Salma Abdel Magid",
+      "Olga Russakovsky",
+      "Eric Gilbert",
+      "Sarita Schoenebeck"
+    ],
+    "url": "https://openreview.net/forum?id=BQGCgTjvdo"
+  },
+  {
+    "number": 133,
+    "title": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
+    "authors": [
+      "Alyssa Unell",
+      "Natalie Dullerud",
+      "Naomi Boneh",
+      "Meena Jagadeesan",
+      "Tatsunori Hashimoto",
+      "Nigam Shah",
+      "Sanmi Koyejo"
+    ],
+    "url": "https://openreview.net/forum?id=X8SWIzxLUt"
+  },
+  {
+    "number": 134,
+    "title": "Test Accuracy Conflates Learned Weights with Normalization State",
+    "authors": [
+      "Sarthak Tayal",
+      "Suayb S. Arslan",
+      "Emirhan Inan"
+    ],
+    "url": "https://openreview.net/forum?id=Ff9byKDIY7"
+  },
+  {
+    "number": 135,
+    "title": "Psychometrics Without a Questionnaire: Auditing an LLM Rater via Item Response Theory (LIRT)",
+    "authors": [
+      "Felix Crabtree",
+      "Ben Griffin",
+      "Yigit Ihlamur"
+    ],
+    "url": "https://openreview.net/forum?id=qGEeGVxMHr"
+  },
+  {
+    "number": 137,
+    "title": "Efficient Language Model Evaluation Using Latent-Space Stratification",
+    "authors": [
+      "Samuel Myren",
+      "Kurtis Shuler",
+      "Grant David Meadors",
+      "Emily Taylor"
+    ],
+    "url": "https://openreview.net/forum?id=cdJVjhRQr7"
+  },
+  {
+    "number": 140,
+    "title": "Can We Trust In-Distribution Success? Locked Evaluation Reveals Transfer Failure and Sampling-Depth Entanglement in CRISPRi Perturbation Prediction",
+    "authors": [
+      "Mehrdad Shoeibi",
+      "Niloofar Yousefi"
+    ],
+    "url": "https://openreview.net/forum?id=DsVQi1WTsP"
+  },
+  {
+    "number": 149,
+    "title": "Evaluating Deception, Not Just Deepfakes",
+    "authors": [
+      "Jessee Ho",
+      "Shweta Khushu",
+      "Shaina Raza"
+    ],
+    "url": "https://openreview.net/forum?id=xOF4Bvmcpi"
+  },
+  {
+    "number": 150,
+    "title": "Fidelity Ceilings Break Reliability Coefficients in Generative AI Evaluation",
+    "authors": [
+      "Mst Mousumi Rizia",
+      "Hanna Suominen"
+    ],
+    "url": "https://openreview.net/forum?id=9f97jVSWDM"
+  },
+  {
+    "number": 151,
+    "title": "What You Actually Download: Shipped Defaults Are Mostly Harmless and Occasionally Catastrophic for Browser LLMs",
+    "authors": [
+      "Adnan Khan"
+    ],
+    "url": "https://openreview.net/forum?id=tx9G7rUzua"
+  },
+  {
+    "number": 152,
+    "title": "Checking the Output Does Not Check the Aggregator: A Bit-Exact Counterexample in Federated Learning",
+    "authors": [
+      "Ruiting Wang"
+    ],
+    "url": "https://openreview.net/forum?id=UjsicwKUfR"
+  },
+  {
+    "number": 155,
+    "title": "Faithful Dual-constrained Erasure for Robust LLM Safety Alignment",
+    "authors": [
+      "Jiaqing Li",
+      "Shide Zhou",
+      "Zhibo Zhang",
+      "Yuxi Li",
+      "Tianlong Yu",
+      "Kailong Wang"
+    ],
+    "url": "https://openreview.net/forum?id=309BKpJQgo"
+  },
+  {
+    "number": 156,
+    "title": "SIR: Self-improving Red-teaming for Compute Use Agents",
+    "authors": [
+      "Chen Xiong",
+      "Zhiyuan He",
+      "Pin-Yu Chen",
+      "Stjepan Picek",
+      "Tsung-Yi Ho"
+    ],
+    "url": "https://openreview.net/forum?id=CFEXHnbu82"
+  },
+  {
+    "number": 158,
+    "title": "Same Top Fraction, Different Workload: Auditing Eligibility and Capacity in Clinical Risk Evaluation",
+    "authors": [
+      "Vache Oganisyan",
+      "Dmitry Lvov",
+      "Ilya Pershin"
+    ],
+    "url": "https://openreview.net/forum?id=puYbvC47rw"
+  },
+  {
+    "number": 161,
+    "title": "Generalization Is Stability, Not Accuracy: Multi-Axis Evaluation of LLMs",
+    "authors": [
+      "Nagham Omar",
+      "Mahmoud Jabarin",
+      "Maya Rozenshtein",
+      "Rom Himelstein",
+      "Avi Mendelson",
+      "Amit LeVi"
+    ],
+    "url": "https://openreview.net/forum?id=hJ2zU8YMnC"
+  },
+  {
+    "number": 162,
+    "title": "Swap-Consistency Does Not Certify a Code Judge: Separating Calibrated Abstention from Position-Locking with an Execution Oracle",
+    "authors": [
+      "Ching-Yu Lin",
+      "Yifan Liu"
+    ],
+    "url": "https://openreview.net/forum?id=8WCklLWbgg"
+  },
+  {
+    "number": 164,
+    "title": "Towards a Practical Understanding of On-Policy Lagrangian Safe Reinforcement Learning",
+    "authors": [
+      "Lindsay Spoor",
+      "Alvaro Serra-Gomez",
+      "Aske Plaat",
+      "Thomas M. Moerland"
+    ],
+    "url": "https://openreview.net/forum?id=ICbzVGUSIp"
+  },
+  {
+    "number": 165,
+    "title": "Are Near-Tied LLM Rankings Robust to Benchmark Composition?",
+    "authors": [
+      "Qiaoyuan ZHENG",
+      "Yiqu Yang"
+    ],
+    "url": "https://openreview.net/forum?id=3p0FEbS92G"
+  },
+  {
+    "number": 166,
+    "title": "Beyond Accuracy: On Measuring Logical Compliance of Predictive Models",
+    "authors": [
+      "Guillaume Delplanque",
+      "Pierre Geneves",
+      "Nabil Layaïda"
+    ],
+    "url": "https://openreview.net/forum?id=3RjT9vCVxA"
+  },
+  {
+    "number": 170,
+    "title": "Is Inter-Seed Cross-Play Enough? Assessing the Standard Evaluation Protocol for Zero-Shot Coordination",
+    "authors": [
+      "Maksymilian Wolski",
+      "Nicholas Stephen Hoernle",
+      "Johannes Forkel",
+      "Jakob Nicolaus Foerster"
+    ],
+    "url": "https://openreview.net/forum?id=t215oqXjl1"
+  },
+  {
+    "number": 171,
+    "title": "Mind the Tokenizer: Why a Single Space Decides What Multiple-Choice Evaluations Measure",
+    "authors": [
+      "Prabhu Teja S",
+      "Frank Schneider",
+      "Martin Reinhardt",
+      "Fabien C. Y. Benureau",
+      "Thomas F Burns"
+    ],
+    "url": "https://openreview.net/forum?id=RROuGABnBG"
+  },
+  {
+    "number": 173,
+    "title": "The Screen Decides the Verdict: Operating Characteristics of Model-Exclusion Rules in LLM Evaluation",
+    "authors": [
+      "Emile Boullineau",
+      "Jose Daniel Muñoz Arciniegas"
+    ],
+    "url": "https://openreview.net/forum?id=PiBK1nXVZB"
+  },
+  {
+    "number": 177,
+    "title": "BenchBench-Protocol: Evaluating Real-World Wet-Lab Protocol Reasoning and Modification",
+    "authors": [
+      "Aditya Sivakumar",
+      "Nithin Parsan",
+      "Ashu Singhal",
+      "Nicholas Larus-Stone"
+    ],
+    "url": "https://openreview.net/forum?id=ShRgF9MGh3"
+  },
+  {
+    "number": 178,
+    "title": "PoisonForge: Task-Level Targeted Poisoning Benchmark for Instruction-Tuned LLMs",
+    "authors": [
+      "Luze Sun",
+      "Anshuman Suri",
+      "Harsh Chaudhari",
+      "Cristina Nita-Rotaru",
+      "Alina Oprea"
+    ],
+    "url": "https://openreview.net/forum?id=jleYER3wRI"
+  },
+  {
+    "number": 180,
+    "title": "Do FID Evaluations Bias Generative Models Away from Statistical Relevance?",
+    "authors": [
+      "Saumya Goyal",
+      "Dhruv Garg",
+      "Divyan Goyal",
+      "Barnabas Poczos"
+    ],
+    "url": "https://openreview.net/forum?id=NPjn5EKyPJ"
+  },
+  {
+    "number": 182,
+    "title": "Evolving LLM-Generated Features for Interpretable Classification",
+    "authors": [
+      "Jack Butler",
+      "Zainab Afolabi",
+      "Nikita Kozodoi"
+    ],
+    "url": "https://openreview.net/forum?id=bwrHxwRR3y"
+  },
+  {
+    "number": 183,
+    "title": "Can We Trust Evaluations of AI Weather Forecasts for Extremes? How Evaluation Protocols Shape Model Rankings",
+    "authors": [
+      "Tobias Biegert",
+      "Sam Allen",
+      "Zhongwei Zhang",
+      "Sebastian Lerch"
+    ],
+    "url": "https://openreview.net/forum?id=t3mlqVY2dn"
+  },
+  {
+    "number": 186,
+    "title": "Detection Without Diagnosis in Small Evaluators",
+    "authors": [
+      "Rafael Gardos"
+    ],
+    "url": "https://openreview.net/forum?id=eAXEv5L1n7"
+  },
+  {
+    "number": 187,
+    "title": "Reproducing ELEPHANT: Judge-Dependence and Model Deprecation in an LLM Sycophancy Benchmark",
+    "authors": [
+      "Kristina Sakayeva",
+      "Ana Trisovic"
+    ],
+    "url": "https://openreview.net/forum?id=PANMPBrDdC"
+  },
+  {
+    "number": 188,
+    "title": "Stress-Testing Efficient Responsible-AI Evaluation: When Compute Savings Change Benchmark Conclusions",
+    "authors": [
+      "Ahmed ELKady",
+      "Aravind Narayanan",
+      "Yani Ioannou",
+      "Shaina Raza"
+    ],
+    "url": "https://openreview.net/forum?id=gCHBzuMd2B"
+  },
+  {
+    "number": 192,
+    "title": "Benchmark Contamination: A Taxonomy Organized by Defeated Mitigation",
+    "authors": [
+      "Johanna Angulo",
+      "Víctor Yeste",
+      "Hector Espinos-Morato"
+    ],
+    "url": "https://openreview.net/forum?id=KF6ghXBmSP"
+  },
+  {
+    "number": 194,
+    "title": "Training LLMs to Verbalize Evaluation Awareness",
+    "authors": [
+      "Usman Anwar",
+      "Sahar Abdelnabi",
+      "David Krueger"
+    ],
+    "url": "https://openreview.net/forum?id=6hcZhL1g5f"
+  },
+  {
+    "number": 198,
+    "title": "Support-Set Target Leakage in Relational Foundation Models during In-Context Learning: Model Dependence and Evaluation Reliability",
+    "authors": [
+      "Roshan Reddy Upendra",
+      "Alexandre Dorais",
+      "Joe Meyer",
+      "Andrew Pouret",
+      "Anastasios Lambrianos Stappas",
+      "Dinesh Katupputhur Ramprasath",
+      "Viswanath Ganapathy",
+      "Tom Palczewski",
+      "Minghua Li"
+    ],
+    "url": "https://openreview.net/forum?id=HtmwBBE1kg"
+  },
+  {
+    "number": 202,
+    "title": "PatchTrace Receipts: Auditable Delta Records for Evaluator Maintenance",
+    "authors": [
+      "Pengkun Zhang"
+    ],
+    "url": "https://openreview.net/forum?id=GLpM0hvLL2"
+  },
+  {
+    "number": 206,
+    "title": "COMPREHEND: Ultra-Fine-Grained Benchmark Understanding by Entailment Hierarchy",
+    "authors": [
+      "Sivaraaman Balakrishnan",
+      "Prakriti Shankar Shetty",
+      "Jeremiah Hong",
+      "Hamed Zamani",
+      "Haw-Shiuan Chang"
+    ],
+    "url": "https://openreview.net/forum?id=ZCqLkXWlos"
+  },
+  {
+    "number": 208,
+    "title": "Architecture-Induced Rank Reversal in Out-of-Distribution Detection",
+    "authors": [
+      "Mustakim Ahmed Hasan",
+      "Ishtiak Mahmud Saad",
+      "Mominul Islam"
+    ],
+    "url": "https://openreview.net/forum?id=FPywdDJNDu"
+  },
+  {
+    "number": 209,
+    "title": "The Benchmark Blind Spot: Lag Profiles of Distributional Model Collapse and a Low-Cost Calibration-Gap Signal",
+    "authors": [
+      "Cyrus Hui"
+    ],
+    "url": "https://openreview.net/forum?id=hQGcvG9Ex3"
+  },
+  {
+    "number": 215,
+    "title": "Beyond Global Shuffles: Auditing the Construct Validity of Clinical Measurement–Text Pairing Evaluations",
+    "authors": [
+      "Yaser Kord",
+      "Moritz Hess",
+      "Jens Timmer"
+    ],
+    "url": "https://openreview.net/forum?id=PQRf1tKFXp"
+  },
+  {
+    "number": 217,
+    "title": "Speculative Evaluation of Stochastic LLMs",
+    "authors": [
+      "Qianli Shen",
+      "Xiang Li",
+      "Ruomeng Ding",
+      "Yanxi Chen",
+      "Daoyuan Chen",
+      "Yaliang Li"
+    ],
+    "url": "https://openreview.net/forum?id=IvzVKsdcH9"
+  },
+  {
+    "number": 218,
+    "title": "Measuring Stability via Minimal Context Interventions",
+    "authors": [
+      "Erel Hadad",
+      "Rom Himelstein",
+      "Amit LeVi",
+      "Brit Youngmann",
+      "Avi Mendelson"
+    ],
+    "url": "https://openreview.net/forum?id=ge0kACVth2"
+  },
+  {
+    "number": 220,
+    "title": "What Does a Passed Evaluator Audit Establish? Observation Sufficiency for Post-Repair Claims",
+    "authors": [
+      "Mateo PETEL"
+    ],
+    "url": "https://openreview.net/forum?id=M6XpzcJAjQ"
+  },
+  {
+    "number": 221,
+    "title": "Beyond Correlation: Validity Conditions for Task-Affinity Evaluation",
+    "authors": [
+      "Fangqin Zhou",
+      "Joaquin Vanschoren"
+    ],
+    "url": "https://openreview.net/forum?id=GH5RhiIkNz"
+  },
+  {
+    "number": 224,
+    "title": "Visual Fairness Misalignment: AI Models Prefer People Based on How They Look",
+    "authors": [
+      "Mostufa Jbareen",
+      "Amit LeVi",
+      "Rom Himelstein",
+      "Avi Mendelson",
+      "Brit Youngmann"
+    ],
+    "url": "https://openreview.net/forum?id=8FVZVYg5nD"
+  },
+  {
+    "number": 225,
+    "title": "EvidenceFlip: Counterfactual Evidence Audits for LLM Judges in Digital Forensics",
+    "authors": [
+      "Arash Mahboubi",
+      "Yue Wang",
+      "Duoyi Zhang",
+      "Seyit Camtepe"
+    ],
+    "url": "https://openreview.net/forum?id=BhoHqrjcvw"
+  },
+  {
+    "number": 233,
+    "title": "The Errors That Matter: Consequence-Aware Evaluation of LLM Judges",
+    "authors": [
+      "Vishal Srivastava"
+    ],
+    "url": "https://openreview.net/forum?id=nS6Qh0JJUS"
+  },
+  {
+    "number": 234,
+    "title": "Candidate Exposure Changes Abstention: Auditing Construct Validity in Grounded LLM Evaluation",
+    "authors": [
+      "Rajeel Ahmad Ansari"
+    ],
+    "url": "https://openreview.net/forum?id=VpPb637w2W"
+  },
+  {
+    "number": 235,
+    "title": "LLM Judges Verify Presence, Not Absence",
+    "authors": [
+      "Dr Sebastian Fox",
+      "Luke Markham",
+      "Ryan Lail",
+      "Michael Karotsieris"
+    ],
+    "url": "https://openreview.net/forum?id=C7ElDQ0l9T"
+  },
+  {
+    "number": 237,
+    "title": "Fuzzy Evidential Learning: Structured Evidence Generation for Uncertainty-Aware Vision Networks",
+    "authors": [
+      "Oliver Pitts",
+      "Rossella Arcucci"
+    ],
+    "url": "https://openreview.net/forum?id=MUNzJhby6S"
+  },
+  {
+    "number": 239,
+    "title": "Spline Reorganization Without Grokking: Stress-Testing Knot Entropy as a Progress Measure in KANs",
+    "authors": [
+      "RANJAN VEERABHADRASWAMY",
+      "Ajith Jubilson E"
+    ],
+    "url": "https://openreview.net/forum?id=6i9Oj2CW7M"
+  },
+  {
+    "number": 240,
+    "title": "Evaluation Metrics for Safe Reinforcement Learning",
+    "authors": [
+      "Lindsay Spoor",
+      "Aske Plaat",
+      "Thomas M. Moerland"
+    ],
+    "url": "https://openreview.net/forum?id=nNSHo1LCCV"
+  },
+  {
+    "number": 247,
+    "title": "When an Evaluation Should Refuse to Answer: A Fail-Closed Weight-Perturbation Pilot in Hebrew",
+    "authors": [
+      "Aviad Cohen"
+    ],
+    "url": "https://openreview.net/forum?id=g2VxR60HvO"
+  },
+  {
+    "number": 250,
+    "title": "Patched, Not Repaired: A Low Benign False Positive Rate Certifies the Region, Not the Model",
+    "authors": [
+      "Bonam Osene Moto JR",
+      "Denis Mugendi"
+    ],
+    "url": "https://openreview.net/forum?id=Bgvx6Kylbt"
+  },
+  {
+    "number": 251,
+    "title": "Strength Is Not Soundness: Measuring the Exploitability of LLM Policies in Imperfect-Information Games",
+    "authors": [
+      "Benjamin Regazzoni",
+      "Corentin Caillaud",
+      "Rui Miguel Azevedo Leitão"
+    ],
+    "url": "https://openreview.net/forum?id=xL8jflTLRE"
+  },
+  {
+    "number": 267,
+    "title": "The Calibration Trap in Federated Learning",
+    "authors": [
+      "Md Ahsan Karim"
+    ],
+    "url": "https://openreview.net/forum?id=pwPnv1eMUq"
+  },
+  {
+    "number": 268,
+    "title": "Ask the Model: Counterfactual Cue Reliance Predicts Worst-Group Failure and Targets Repair",
+    "authors": [
+      "Prakhar Gupta",
+      "Terry Jingchen Zhang",
+      "Florent Draye",
+      "Bernhard Schölkopf",
+      "Zhijing Jin"
+    ],
+    "url": "https://openreview.net/forum?id=DCrUhha61A"
+  },
+  {
+    "number": 269,
+    "title": "Same Models, Different Winners: How Evaluation Design Changes Model Selection in Financial Volatility Forecasting",
+    "authors": [
+      "Vivan Rangra"
+    ],
+    "url": "https://openreview.net/forum?id=4iWS0BK34e"
+  },
+  {
+    "number": 271,
+    "title": "SplitWitness-G: Measuring Train-Visible Evidence in Link-Prediction Benchmarks",
+    "authors": [
+      "Vivan Rangra"
+    ],
+    "url": "https://openreview.net/forum?id=VCQ6aDeTJg"
+  },
+  {
+    "number": 272,
+    "title": "Integrity Is Not Validity: A Layered Assurance Case for Stateful Agent Evaluation",
+    "authors": [
+      "Sahand Ghorbanpour",
+      "Soumyendu Sarkar"
+    ],
+    "url": "https://openreview.net/forum?id=86gDBR9Ghj"
+  },
+  {
+    "number": 278,
+    "title": "DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining",
+    "authors": [
+      "Yutong Yan",
+      "Raphael Tang",
+      "Zhenyu Gao",
+      "Wenxi Jiang",
+      "Yao Lu"
+    ],
+    "url": "https://openreview.net/forum?id=QzihIS4YrN"
+  },
+  {
+    "number": 280,
+    "title": "When Score Contrasts Outrun Their Protocols: Construct Validity in Grounded Generation",
+    "authors": [
+      "Alexander J Ryu",
+      "Bruce Changlong Xu"
+    ],
+    "url": "https://openreview.net/forum?id=JEWwzeMZG1"
+  },
+  {
+    "number": 281,
+    "title": "The Loss Does Not Define the Private Optimizer: Query Semantics in Robust Fine-Tuning",
+    "authors": [
+      "Maria Terenteva",
+      "Kirill Lukianov"
+    ],
+    "url": "https://openreview.net/forum?id=PqWWqI1v39"
+  },
+  {
+    "number": 283,
+    "title": "A Function-Level Vulnerability Score Measures Flag Rate More Than the Model: Protocol Effects on Paired Benchmarks",
+    "authors": [
+      "Maciej Cichoń",
+      "Bartłomiej Dmitruk"
+    ],
+    "url": "https://openreview.net/forum?id=3ieGYJTqzG"
+  },
+  {
+    "number": 284,
+    "title": "Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness",
+    "authors": [
+      "Saisab Sadhu",
+      "Shreeyans Arora",
+      "Pratinav Seth"
+    ],
+    "url": "https://openreview.net/forum?id=DB0hTly8II"
+  },
+  {
+    "number": 286,
+    "title": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+    "authors": [
+      "Saisab Sadhu",
+      "Aadit Sengupta",
+      "Vinay kumar Sankarapu",
+      "Pratinav Seth"
+    ],
+    "url": "https://openreview.net/forum?id=MW6rTyblTs"
+  },
+  {
+    "number": 288,
+    "title": "Selective Disclosure of Hidden Directives in Reasoning Models: Behavioral Asymmetry and Steering",
+    "authors": [
+      "Simba Shi",
+      "Xander Tifft",
+      "Wen Xing"
+    ],
+    "url": "https://openreview.net/forum?id=vKqYogdNVq"
+  },
+  {
+    "number": 289,
+    "title": "BILD: A Bilinear Interaction Learnable Discriminator for Post-Hoc Misclassification Detection",
+    "authors": [
+      "ANTHONY FERNANDO Judeson",
+      "Torsten Schön"
+    ],
+    "url": "https://openreview.net/forum?id=wmTgOA5QB3"
+  },
+  {
+    "number": 295,
+    "title": "Guardrail erosion in domain fine-tuned large language models: A paired audit of knowledge-centric abstention in biomedical LLMs",
+    "authors": [
+      "Stephen Peng",
+      "Vineet Jagadeesan Nair",
+      "Noah Broestl",
+      "Steven Mills",
+      "Anne Friederike Kleppe",
+      "Adi Zolotov"
+    ],
+    "url": "https://openreview.net/forum?id=cWZmSeKPTJ"
+  },
+  {
+    "number": 298,
+    "title": "PyMETA: Evaluating Student Code Diagnosis on and Beyond the First Execution Error",
+    "authors": [
+      "Ziqi Tang",
+      "Chuyue Li",
+      "Jingyi Wang",
+      "Yu Wu",
+      "Kazuma Hashimoto",
+      "Lingyu Gao"
+    ],
+    "url": "https://openreview.net/forum?id=Fz4nqncIlh"
+  },
+  {
+    "number": 300,
+    "title": "What Do Evaluation Awareness Metrics Measure",
+    "authors": [
+      "Hugh Van Deventer",
+      "Laura Ruis",
+      "Joshua Joseph"
+    ],
+    "url": "https://openreview.net/forum?id=b6pe7P4Y89"
+  },
+  {
+    "number": 301,
+    "title": "The Readout Chooses the Winner: Evaluation Protocols Decide Fairness Conclusions in Continual Learning",
+    "authors": [
+      "Keira Chatwin",
+      "Miles Bliey"
+    ],
+    "url": "https://openreview.net/forum?id=k3mcAq2aWd"
+  },
+  {
+    "number": 302,
+    "title": "The Evaluation Gap: Joint Bounds under Distribution Shift, Selective Labels, and Outcome Measurement Error",
+    "authors": [
+      "Sean M. Richardson",
+      "Amanda Lee Coston",
+      "Ashesh Rambachan"
+    ],
+    "url": "https://openreview.net/forum?id=uChoQnR1tj"
+  },
+  {
+    "number": 305,
+    "title": "Red Teaming is a Measurement Problem: Item Response Theory for Calibrated, Cost-Efficient Robustness Evaluation",
+    "authors": [
+      "Sunil Kothari",
+      "Rajiv Lal"
+    ],
+    "url": "https://openreview.net/forum?id=tK3P9JxpCX"
+  },
+  {
+    "number": 306,
+    "title": "When Evaluation Protocols Outlive Their Assumptions: Stress-Testing Social Desirability Bias Measurement Across LLM Generations",
+    "authors": [
+      "Kensuke Okada",
+      "Yui Furukawa"
+    ],
+    "url": "https://openreview.net/forum?id=qKIJiwLTAp"
+  },
+  {
+    "number": 308,
+    "title": "Truthfulness Is Not Enough: Prompt-Conditioned Evidence Selection in LLMs",
+    "authors": [
+      "Eunice Yiu",
+      "Sixuan Chen",
+      "Joshua Attih"
+    ],
+    "url": "https://openreview.net/forum?id=UmmoCxTzum"
+  },
+  {
+    "number": 309,
+    "title": "Benchmarking Exploration Hacking Propensity in Frontier LLMs",
+    "authors": [
+      "Eduard Hübner",
+      "Nina Żukowska",
+      "Alexander Panfilov",
+      "Joschka Braun"
+    ],
+    "url": "https://openreview.net/forum?id=zAejOPjT6L"
+  },
+  {
+    "number": 310,
+    "title": "PriorBPB: Reducing the Target Length Confound of Bits-per-Byte While Improving Accuracy Prediction",
+    "authors": [
+      "Thomas F Burns",
+      "Prabhu Teja S",
+      "Frank Schneider",
+      "Martin Reinhardt"
+    ],
+    "url": "https://openreview.net/forum?id=fiMZJJzZ7g"
+  },
+  {
+    "number": 311,
+    "title": "VerifierContractBench: Auditing the Safety Validity of Optimized Agent Evaluation",
+    "authors": [
+      "Lakshya Narula",
+      "Saurabh Tripathi",
+      "Lily Bharati Sharma",
+      "Nikhil Rao"
+    ],
+    "url": "https://openreview.net/forum?id=JYTSvhgoEB"
+  },
+  {
+    "number": 312,
+    "title": "My Graph Doesn’t Help! Analyzing Causal Graph Construction, Representation, and Utility in LLMs",
+    "authors": [
+      "Aman Syed",
+      "Benjamin Li"
+    ],
+    "url": "https://openreview.net/forum?id=phE3iCLTGL"
+  },
+  {
+    "number": 313,
+    "title": "Can We Trust Coverage Measured on Actively Selected Labels? An ADMET Evaluation Audit",
+    "authors": [
+      "Lakshya Narula"
+    ],
+    "url": "https://openreview.net/forum?id=1EzRRP2FVN"
+  },
+  {
+    "number": 315,
+    "title": "Where Knowledge and Authority Sit Changes What an Agent Benchmark Can Resolve",
+    "authors": [
+      "Dan C. Hsu",
+      "Luke Lu"
+    ],
+    "url": "https://openreview.net/forum?id=35OVHaxYZW"
+  },
+  {
+    "number": 316,
+    "title": "Evaluating Agentic AI in Transportation: A Multidimensional Framework and Deterministic Stress Test for Traffic-Simulation Workflows",
+    "authors": [
+      "Xiangyong Luo",
+      "Wan Li",
+      "Guanhao Xu",
+      "haowen xu",
+      "Abhilasha Jairam Saroj",
+      "Jinghui Yuan",
+      "Ross Wang"
+    ],
+    "url": "https://openreview.net/forum?id=DecOTKx6XK"
+  },
+  {
+    "number": 317,
+    "title": "When Calibration Records Cannot Support Routing: A Denominator and Artifact Audit",
+    "authors": [
+      "Carlos Toxtli Hernandez",
+      "Manuel Delaflor"
+    ],
+    "url": "https://openreview.net/forum?id=uPtp2butrm"
+  },
+  {
+    "number": 318,
+    "title": "Stubborn or Sycophantic? Auditing What Sycophancy Evaluations Measure",
+    "authors": [
+      "HanRui Zhang",
+      "Ashton Chew",
+      "Ryan Soe",
+      "Ahmed Taha",
+      "Ruizhe Li",
+      "Aditya Shah",
+      "Maheep Chaudhary"
+    ],
+    "url": "https://openreview.net/forum?id=WcbzSR7NB9"
+  },
+  {
+    "number": 320,
+    "title": "Correct, Route, Calibrate: Efficient Preference Optimization from Noisy, Heterogeneous Human Feedback",
+    "authors": [
+      "Zhongming Xie",
+      "Zhenyu Zhao",
+      "Sui Huang",
+      "Xinwei Ma",
+      "Jingshen Wang"
+    ],
+    "url": "https://openreview.net/forum?id=iybvdfJ0I4"
+  },
+  {
+    "number": 321,
+    "title": "Dutch Books for Language Models",
+    "authors": [
+      "Isaiah Andrews",
+      "Suproteem K Sarkar"
+    ],
+    "url": "https://openreview.net/forum?id=rCe5K7AKeE"
+  },
+  {
+    "number": 322,
+    "title": "The Reward Horizon Problem: Learning From Delayed Feedback",
+    "authors": [
+      "Eric Fithian",
+      "Suproteem K Sarkar"
+    ],
+    "url": "https://openreview.net/forum?id=LpA2jRqlnQ"
+  },
+  {
+    "number": 323,
+    "title": "Beyond Prediction Error: A Wind Turbine Case Study for CFD Surrogate Model Evaluation",
+    "authors": [
+      "Caleb White",
+      "Masha Folk"
+    ],
+    "url": "https://openreview.net/forum?id=GCaxz4Hro2"
+  },
+  {
+    "number": 324,
+    "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+    "authors": [
+      "Yifan Sun",
+      "Naicheng Yu",
+      "Jiawen Gong",
+      "Jingyan Shen",
+      "Huan Zhang"
+    ],
+    "url": "https://openreview.net/forum?id=wstbv0YWGz"
+  },
+  {
+    "number": 326,
+    "title": "How Much Can Repeated Running Buy? A Measured Variance Ceiling for LLM Code Evaluation",
+    "authors": [
+      "Yongxi Zhou",
+      "Lai Yun Choi",
+      "Jiaxi Wen",
+      "Wenbo Ye",
+      "Junwei Yao"
+    ],
+    "url": "https://openreview.net/forum?id=783u5LW5QH"
+  },
+  {
+    "number": 327,
+    "title": "When Accuracy Is Not Enough: Evaluating Trustworthiness in High-Stakes Lease Interpretation",
+    "authors": [
+      "Bin Liang",
+      "Yuxi Lu",
+      "Jin Wang",
+      "Zhidong Li"
+    ],
+    "url": "https://openreview.net/forum?id=SBMlDjybKS"
+  },
+  {
+    "number": 328,
+    "title": "Which LLM for Which Work? Budgeted Model Allocation under Uncertain Evaluation",
+    "authors": [
+      "Hamed Khosravi",
+      "Xiaoming Huo"
+    ],
+    "url": "https://openreview.net/forum?id=xxMiCy4HLd"
+  },
+  {
+    "number": 329,
+    "title": "CoBe: Counterfactual Benchmark for Text Editing",
+    "authors": [
+      "Arvind Raghavan",
+      "Inwoo Hwang",
+      "Shreyas Havaldar",
+      "Kai-Zhan Lee",
+      "Aurghya Maiti",
+      "Yushu Pan",
+      "Jeffrey Wu",
+      "Mingxuan Li",
+      "Elias Bareinboim"
+    ],
+    "url": "https://openreview.net/forum?id=nkxDKkKr5w"
+  },
+  {
+    "number": 332,
+    "title": "A Study of LLM Judge Capability-Dependent Biases and Multi-Judge Ensemble for Bias Calibration",
+    "authors": [
+      "Gemma Zhang",
+      "Prachi Badarayani",
+      "Asmi Kumar",
+      "Sadid A. Hasan",
+      "Sulaiman Vesal"
+    ],
+    "url": "https://openreview.net/forum?id=lC36Q2DyKC"
+  },
+  {
+    "number": 334,
+    "title": "Separating Architecture from Initialization: What a Controlled CNN-Transformer Benchmark Can and Cannot Attribute.",
+    "authors": [
+      "Chandra Prakash Bathula"
+    ],
+    "url": "https://openreview.net/forum?id=7jEGZJUh4V"
+  },
+  {
+    "number": 337,
+    "title": "ECHO: Diagnosing Spatial Cue Access in Audio-Language Models",
+    "authors": [
+      "Daniel Huang",
+      "Alvin Shen",
+      "Aarush Rachakonda",
+      "Aryan Shrivastava",
+      "Kyle Xu"
+    ],
+    "url": "https://openreview.net/forum?id=zMWt8q9cdp"
+  },
+  {
+    "number": 341,
+    "title": "When the Metric Lies: Silent Evaluation Failures in RL Exploration",
+    "authors": [
+      "Seyed Ali Alavi",
+      "Mohaddeseh Jahanabadi",
+      "Dustin Dannenhauer"
+    ],
+    "url": "https://openreview.net/forum?id=xEYm1S49la"
+  },
+  {
+    "number": 342,
+    "title": "LLM-Generated Investment Research Memos Need Validation",
+    "authors": [
+      "Chenri Luo",
+      "Xukang Gong",
+      "BINYAN YU",
+      "Xiao-Yang Liu"
+    ],
+    "url": "https://openreview.net/forum?id=WfPKRs85I3"
+  },
+  {
+    "number": 343,
+    "title": "Calibration Selection, Not Contamination, Breaks Conformal FDR Control in Graph Anomaly Detection",
+    "authors": [
+      "Suhaan Khan",
+      "Suhaan Gopal"
+    ],
+    "url": "https://openreview.net/forum?id=I614HtAuvJ"
+  },
+  {
+    "number": 344,
+    "title": "Evaluating Multimodal Benefits in Closed-Loop Robot Control",
+    "authors": [
+      "Nihar Mudigonda",
+      "Feolu Kolawole"
+    ],
+    "url": "https://openreview.net/forum?id=zVQ5aOY7j9"
+  },
+  {
+    "number": 346,
+    "title": "SANE: Automated Scorer-Specific Metamorphic Testing for LLM Judges",
+    "authors": [
+      "Ethan Ludwick",
+      "Yu-Chung Hsiao"
+    ],
+    "url": "https://openreview.net/forum?id=PTt9vwDMdF"
+  },
+  {
+    "number": 350,
+    "title": "HOP-CAT: Higher-Order Profile-Constrained Adaptive Testing for Efficient Multidomain LLM Evaluation",
+    "authors": [
+      "Chengyuan Yao",
+      "Weixuan Xiao",
+      "Renzhe Yu"
+    ],
+    "url": "https://openreview.net/forum?id=7W4TpZNY2S"
+  },
+  {
+    "number": 352,
+    "title": "Internal Stability Is Not Evidence of Replication: Evaluating Attention-Based Self-Correction Signals",
+    "authors": [
+      "Gunjal Gupta",
+      "Vidhi Nagda",
+      "Nikita Goyal"
+    ],
+    "url": "https://openreview.net/forum?id=hkCS0icTWp"
+  },
+  {
+    "number": 353,
+    "title": "PADMÉ: Preference Alignment Data Synthesis for Meta-Evaluation of LM Agent Evaluators",
+    "authors": [
+      "Cheng Chang",
+      "Yining Mao",
+      "Peng Qi"
+    ],
+    "url": "https://openreview.net/forum?id=Xn765SbEmW"
+  },
+  {
+    "number": 356,
+    "title": "PTXBench: Evaluating LLMs for GPU Kernel Optimization with Architecture-Specific PTX",
+    "authors": [
+      "Genghan Zhang",
+      "Yixin Dong",
+      "Chengze Fan",
+      "Zhichen Zeng",
+      "Yueming Yuan",
+      "Shaowei Zhu",
+      "Kunle Olukotun"
+    ],
+    "url": "https://openreview.net/forum?id=rMLGw6rgN8"
+  },
+  {
+    "number": 358,
+    "title": "Reading the Room, or Reading the Prompt? Measurement Fragility in Verbalized Evaluation-Awareness",
+    "authors": [
+      "Neta Ravid",
+      "Daniel Dahl Juhl",
+      "Matthew Gregory",
+      "Guy Nachshon",
+      "Jacob Haimes"
+    ],
+    "url": "https://openreview.net/forum?id=J9MbmkGnbT"
+  },
+  {
+    "number": 361,
+    "title": "Auditing Language-to-Action Control in Driving VLAs",
+    "authors": [
+      "Aradhya Goel",
+      "Bhoomika Gupta",
+      "Muhammed Ustaomeroglu",
+      "Guannan Qu"
+    ],
+    "url": "https://openreview.net/forum?id=GZMdsjrNWv"
+  },
+  {
+    "number": 362,
+    "title": "Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Means",
+    "authors": [
+      "Valentin Kilian",
+      "Stefano Cortinovis",
+      "Francois Caron"
+    ],
+    "url": "https://openreview.net/forum?id=8pUYGsDAUk"
+  },
+  {
+    "number": 366,
+    "title": "Same Benchmark, Different Conclusions? Auditing the Stability of Kazakh Large Language Model Evaluation",
+    "authors": [
+      "Akylbek Maxutov",
+      "Nartay Aikyn"
+    ],
+    "url": "https://openreview.net/forum?id=ULwrK4rnut"
+  },
+  {
+    "number": 367,
+    "title": "Identifying Intelligent Processes via Online Sequential Testing",
+    "authors": [
+      "ARITRA DAS",
+      "Debayan Gupta"
+    ],
+    "url": "https://openreview.net/forum?id=nAY3iH4FPK"
+  },
+  {
+    "number": 368,
+    "title": "Metamorphic auditing of learned AC-OPF evaluation reveals representation dependence",
+    "authors": [
+      "Stephen Peng",
+      "Vineet Jagadeesan Nair"
+    ],
+    "url": "https://openreview.net/forum?id=aGbOoXlXs3"
+  },
+  {
+    "number": 369,
+    "title": "When Pair Count Is Not the Sample Size: What All-Pairs Agent Comparisons Estimate",
+    "authors": [
+      "Wei-Jung Huang"
+    ],
+    "url": "https://openreview.net/forum?id=qcQWpBNOB8"
+  },
+  {
+    "number": 372,
+    "title": "Model Evaluation for Spatially Structured Data: A Case Study of Satellite Altimetry Surface Reconstruction",
+    "authors": [
+      "Xiaoyu Xia",
+      "Abani Patra",
+      "Beata Csatho"
+    ],
+    "url": "https://openreview.net/forum?id=bwvft1Sqhv"
+  },
+  {
+    "number": 375,
+    "title": "Same Scene, Different Answer: Variance and Rollout Budgets for Flow-Policy Evaluation",
+    "authors": [
+      "Nihal Gunukula"
+    ],
+    "url": "https://openreview.net/forum?id=GWoS5WMwr4"
+  },
+  {
+    "number": 376,
+    "title": "Assessing the Gameability of Vision Language Model Judges for World Model Video Evaluation",
+    "authors": [
+      "James Kim",
+      "Rahul Bellam",
+      "Joseph Le Nevez",
+      "Neil Porwal",
+      "Vasu Sharma",
+      "Nicholas Babey"
+    ],
+    "url": "https://openreview.net/forum?id=rUOhMIt2JP"
+  },
+  {
+    "number": 377,
+    "title": "Can Image Captions Support Concept Interpretation? A Controlled Validation Study",
+    "authors": [
+      "Farnoosh Javar",
+      "Kei Wakabayashi"
+    ],
+    "url": "https://openreview.net/forum?id=GD1Lyw6DjF"
+  },
+  {
+    "number": 382,
+    "title": "On the estimation and validity of AI time horizons—a statistical look at the METR plot",
+    "authors": [
+      "Drew T Nguyen",
+      "William Fithian"
+    ],
+    "url": "https://openreview.net/forum?id=IfzVLvrymT"
+  },
+  {
+    "number": 383,
+    "title": "PragAlign: Feedback-Guided Pragmatic Alignment for Controlled Synthetic Dialogue Generation",
+    "authors": [
+      "Smitha Muthya Sudheendra",
+      "Jaideep Srivastava"
+    ],
+    "url": "https://openreview.net/forum?id=0Dg0daMfhE"
+  },
+  {
+    "number": 384,
+    "title": "LLM-as-Environment: Benchmarking Open-Ended Decision Making with Language-Model Simulators",
+    "authors": [
+      "Caroline Choi",
+      "Neil Band",
+      "Nick Rui",
+      "Sandra Yang",
+      "Zeyneb N. Kaya",
+      "Ludwig Schmidt",
+      "Tengyu Ma"
+    ],
+    "url": "https://openreview.net/forum?id=fRQeld8QqS"
+  },
+  {
+    "number": 385,
+    "title": "The Camera, the Split, and the Label: A Three-Check Audit of Glaucoma-Progression Prediction",
+    "authors": [
+      "Hao Li",
+      "Jared Joselowitz",
+      "Zachary Ellis",
+      "Yuxiang Zhou",
+      "Samuel Thio",
+      "Aisling Higham",
+      "Yajie Vera He"
+    ],
+    "url": "https://openreview.net/forum?id=AJbpzv4COc"
+  },
+  {
+    "number": 386,
+    "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+    "authors": [
+      "Patrik Wolf",
+      "Thomas Kleine Buening",
+      "Andreas Krause",
+      "Celestine Mendler-Dünner"
+    ],
+    "url": "https://openreview.net/forum?id=sqlduWygpb"
+  },
+  {
+    "number": 387,
+    "title": "Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of \"Unsafe\" You Trained On",
+    "authors": [
+      "Vahid Jebraeeli",
+      "Jonathon Romero",
+      "Yijin Wang",
+      "Adrian Chan",
+      "Jianbang Zhang"
+    ],
+    "url": "https://openreview.net/forum?id=poXS6TyXFX"
+  },
+  {
+    "number": 389,
+    "title": "Mean Accuracy Is the Wrong Estimand for a Release Decision",
+    "authors": [
+      "Jaewon Choi",
+      "Jihye Kang",
+      "Namhyuk Ahn"
+    ],
+    "url": "https://openreview.net/forum?id=A9Gt8qmA5H"
+  },
+  {
+    "number": 390,
+    "title": "Which singing technique degrades first? Technique contrast retention for neural audio codecs",
+    "authors": [
+      "Yiyang Xu",
+      "Zihao Wang"
+    ],
+    "url": "https://openreview.net/forum?id=ej28bkroQh"
+  },
+  {
+    "number": 391,
+    "title": "Can We Trust What We Measure? Auditing LLM Validity-Awareness in Predictive Modeling",
+    "authors": [
+      "Jennifer Zhang",
+      "Amanda Lee Coston"
+    ],
+    "url": "https://openreview.net/forum?id=F75LfQlJDL"
+  },
+  {
+    "number": 395,
+    "title": "Drop the Act: Probe-Filtered RL for Faithful Chain-of-Thought Reasoning",
+    "authors": [
+      "Swapnil Parekh",
+      "Naman Goyal"
+    ],
+    "url": "https://openreview.net/forum?id=foCdNdyfAu"
+  },
+  {
+    "number": 399,
+    "title": "Auditing Date Shift Invariance in Clinical Prediction Benchmarks",
+    "authors": [
+      "Wenhao Maxwell Ren",
+      "Everest Yang",
+      "Valarie Tran",
+      "Igor Shuryak"
+    ],
+    "url": "https://openreview.net/forum?id=kdsohtPZ7O"
+  },
+  {
+    "number": 401,
+    "title": "Testing LLM Ensemble Disagreement as an Ex-Ante Signal of Underspecification in Accounting Standards",
+    "authors": [
+      "Qian Deng",
+      "Chuanqi Tang"
+    ],
+    "url": "https://openreview.net/forum?id=lqdnN5lFmr"
+  },
+  {
+    "number": 402,
+    "title": "Audit the Rule and the Instrument: Two Checks Every Rubric-Evaluation Claim Should Report",
+    "authors": [
+      "Tianlang Chen"
+    ],
+    "url": "https://openreview.net/forum?id=nYCY1yyQi1"
+  },
+  {
+    "number": 403,
+    "title": "When the Stratifier Is Not Identified: A Pre-Registered Self-Audit of Regime-Stratified Evaluation",
+    "authors": [
+      "Tianlang Chen"
+    ],
+    "url": "https://openreview.net/forum?id=7ZzMx3mPZR"
+  },
+  {
+    "number": 404,
+    "title": "Auditing a Conflicted Judge: Rater-Free Verification of an LLM-Scored Forensic Reliability Benchmark",
+    "authors": [
+      "Hemanth Kumar M J",
+      "Amogh A S"
+    ],
+    "url": "https://openreview.net/forum?id=wUEGNIrkPm"
+  },
+  {
+    "number": 409,
+    "title": "Same Text, Different Prediction: Serving-Context Nondeterminism in Text Classifiers",
+    "authors": [
+      "Santhosh Kumar Kasa",
+      "Siva Rajesh Kasa",
+      "Sumit Negi"
+    ],
+    "url": "https://openreview.net/forum?id=uoHMoLLjhc"
+  },
+  {
+    "number": 410,
+    "title": "TVD-Conflict: Disagreement-Guided Discovery of Jailbreak Judge Vulnerabilities",
+    "authors": [
+      "Zhouyuan Ma",
+      "Pixiao Lan",
+      "Yutao Wu"
+    ],
+    "url": "https://openreview.net/forum?id=OUgf2xxSW3"
+  },
+  {
+    "number": 411,
+    "title": "When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation",
+    "authors": [
+      "Peiying Zhu",
+      "Sidi Chang"
+    ],
+    "url": "https://openreview.net/forum?id=e7cctrtaHd"
+  },
+  {
+    "number": 412,
+    "title": "Same Label, Different Feature: Explainer Dependence and the Causal Validity of SAE Explanations",
+    "authors": [
+      "HanRui Zhang"
+    ],
+    "url": "https://openreview.net/forum?id=CdRWfFKz7m"
+  },
+  {
+    "number": 413,
+    "title": "Beneath the Scores: Rethinking Hallucination Evaluation for Video Understanding Models",
+    "authors": [
+      "Shuzhi Gong",
+      "Fengze Sun",
+      "Yuansan Liu"
+    ],
+    "url": "https://openreview.net/forum?id=6Z1KDhIXnD"
+  },
+  {
+    "number": 418,
+    "title": "Stress-Testing RL-based Capability Elicitation with Randomized Underperformance",
+    "authors": [
+      "Nina Żukowska",
+      "Eduard Hübner",
+      "Alexander Panfilov",
+      "Joschka Braun"
+    ],
+    "url": "https://openreview.net/forum?id=0Pp9w0tIqQ"
+  },
+  {
+    "number": 423,
+    "title": "Auditing Financial ML Backtests with Evaluation Contracts and Executable Checks",
+    "authors": [
+      "Jimmy Chan",
+      "Kevin Lee"
+    ],
+    "url": "https://openreview.net/forum?id=Yjm9wkbzMb"
+  },
+  {
+    "number": 424,
+    "title": "Do LLM Judges Measure What We Mean? Auditing Criterion Alignment and Metadata Dependence in RAG Evaluation",
+    "authors": [
+      "Konrad Wojtasik",
+      "Marcin Oleksy",
+      "Maciej Piasecki"
+    ],
+    "url": "https://openreview.net/forum?id=Oba2NYHDG0"
+  },
+  {
+    "number": 428,
+    "title": "SeqPAC: PAC-Certified Labeling with Sequential Ensembles",
+    "authors": [
+      "Qianyu Julie Zhu",
+      "Ashwin Chandramouli",
+      "Youssef Marzouk",
+      "Suleiman A. Khan",
+      "Fatemeh Mansoori"
+    ],
+    "url": "https://openreview.net/forum?id=4Y5i33NG5g"
+  },
+  {
+    "number": 430,
+    "title": "When the Metric Lies: A Full-Stack Audit of a Multi-Agent Evaluation Protocol",
+    "authors": [
+      "Jan Safrata"
+    ],
+    "url": "https://openreview.net/forum?id=DmQSbQgJjg"
+  },
+  {
+    "number": 444,
+    "title": "Auditing Residualization-Based Evaluation: A Confounding Failure Mode in Cross-Modal fMRI Decoding",
+    "authors": [
+      "Jaden Chun",
+      "Andy Zhang"
+    ],
+    "url": "https://openreview.net/forum?id=kbGuEeDiAh"
+  },
+  {
+    "number": 448,
+    "title": "Change the Metric, Change the Winner: Auditing How We Decide Which Clinical Foundation Model to Deploy in Cancer Pathology",
+    "authors": [
+      "Manpreet singh"
+    ],
+    "url": "https://openreview.net/forum?id=EAhzctDnbL"
+  },
+  {
+    "number": 450,
+    "title": "Robust to Which Model Change? A Unified Evaluation of Robust Counterfactual Explanations",
+    "authors": [
+      "Marcin Kostrzewa",
+      "Maciej Zieba"
+    ],
+    "url": "https://openreview.net/forum?id=bdKNdaxcnJ"
+  },
+  {
+    "number": 452,
+    "title": "Neither Blinding Nor a Jury, Neither Capability Nor Strategy: What Brings a Verifier to Reliability",
+    "authors": [
+      "Johnny Kozman",
+      "Arushi Waddepalli",
+      "Tilak Parajuli"
+    ],
+    "url": "https://openreview.net/forum?id=ddBZYvcs5e"
+  },
+  {
+    "number": 453,
+    "title": "Coordinated, Not Independent: Dependence and Averaging Choices in AI-Prevalence Evaluation",
+    "authors": [
+      "Aram Bagdasarian"
+    ],
+    "url": "https://openreview.net/forum?id=xgRDkHFZ4G"
+  },
+  {
+    "number": 454,
+    "title": "What Does Held-Out Accuracy License? A Stated-Inference Evaluation Protocol for Few-Shot Prompt Tuning",
+    "authors": [
+      "Keisuke Yokota"
+    ],
+    "url": "https://openreview.net/forum?id=Gm5CCp06Ll"
+  },
+  {
+    "number": 455,
+    "title": "When Evaluation Goes Blind: Auditing Patch-Grid Failure Modes in Vision Transformers",
+    "authors": [
+      "Steffen Jung",
+      "Margret Keuper"
+    ],
+    "url": "https://openreview.net/forum?id=sZ1Du9f3GA"
+  },
+  {
+    "number": 456,
+    "title": "Auditing VLM Benchmarks from Existing Evaluation Runs",
+    "authors": [
+      "Denis Degtiarev",
+      "Anna Gromova",
+      "Sergey Katkov",
+      "Artem Mikhailin",
+      "Safina Mukhamedshina",
+      "Albert Nasybullin",
+      "Karina Shaikhutdinova",
+      "Artem Tuzov"
+    ],
+    "url": "https://openreview.net/forum?id=0RTvEQrBET"
+  },
+  {
+    "number": 458,
+    "title": "Selection-Induced Optimism Corrupts Calibration, Not Just Discrimination: A Code-Verified Audit of Hidden-State Hallucination-Detection Pipelines",
+    "authors": [
+      "Lakshmi Chakradhar Vijayarao"
+    ],
+    "url": "https://openreview.net/forum?id=hJSglPtUSg"
+  },
+  {
+    "number": 459,
+    "title": "What Do Paired Vision–Language Benchmarks Measure? Cohort Cues, Metric Structure, and a Medical Case Study",
+    "authors": [
+      "Ahmed Naser",
+      "Sadam Al-Azani"
+    ],
+    "url": "https://openreview.net/forum?id=KLGPndCgwb"
+  },
+  {
+    "number": 461,
+    "title": "Auditing Frozen SAE Readouts as Evaluation Protocols: Spatial Extent Exposes Readout Fragility",
+    "authors": [
+      "Krishna Balsara"
+    ],
+    "url": "https://openreview.net/forum?id=8JITgg89rg"
+  },
+  {
+    "number": 463,
+    "title": "The Off-Switch Failure: When Safety-Repair Evaluation Rewards Model Collapse",
+    "authors": [
+      "Pratinav Seth"
+    ],
+    "url": "https://openreview.net/forum?id=L0v838MAHA"
+  },
+  {
+    "number": 465,
+    "title": "Epistemic Exams",
+    "authors": [
+      "Loren K. Fryxell",
+      "Kola Ayonrinde"
+    ],
+    "url": "https://openreview.net/forum?id=U2IkRqwTO9"
+  },
+  {
+    "number": 469,
+    "title": "Towards Robust, Performance-Based Contamination Detection for LLMs",
+    "authors": [
+      "Allenna Tang",
+      "Jackie Chi Kit Cheung"
+    ],
+    "url": "https://openreview.net/forum?id=wjnwAzRGlw"
+  },
+  {
+    "number": 470,
+    "title": "Short-circuit Error Attribution Fails for Bottleneck Evaluation",
+    "authors": [
+      "Tao Gu"
+    ],
+    "url": "https://openreview.net/forum?id=hvnTPAlx4T"
+  },
+  {
+    "number": 473,
+    "title": "Beyond Demographic Balance: Multi-Metric and Intersectional Evaluation of Fairness in MIMIC-IV Mortality Prediction",
+    "authors": [
+      "Abdullah Al Noman",
+      "Tahrima Hashem",
+      "Syed Muhammad Ibne Zulfiker",
+      "Rishov Paul",
+      "Tanzima Hashem"
+    ],
+    "url": "https://openreview.net/forum?id=fepdHtGy55"
+  },
+  {
+    "number": 474,
+    "title": "From Linear Domain Invariance to Deployment Robustness: A Construct-Validity Audit of First-Moment Erasure",
+    "authors": [
+      "Yash Tripathi",
+      "Arpan Verma"
+    ],
+    "url": "https://openreview.net/forum?id=zzxEIDw8Um"
+  },
+  {
+    "number": 475,
+    "title": "Not All Eval-Awareness Is Equal: Capabilities Framing Predicts Compliance",
+    "authors": [
+      "Allison Claire Zhuang"
+    ],
+    "url": "https://openreview.net/forum?id=C53JOID0L0"
+  },
+  {
+    "number": 477,
+    "title": "Mind the Mic",
+    "authors": [
+      "Tsz Chai Alan Liu"
+    ],
+    "url": "https://openreview.net/forum?id=sYk9ErrDRO"
+  },
+  {
+    "number": 481,
+    "title": "Measuring Definition Sensitivity in LLM Annotation of Social Science Concepts",
+    "authors": [
+      "Bogdan Mamaev",
+      "Qizhou Wang",
+      "Matteo Vergani",
+      "Christopher Leckie"
+    ],
+    "url": "https://openreview.net/forum?id=YneNR0hiR7"
+  },
+  {
+    "number": 482,
+    "title": "Beyond Subject-Wise Splits: Auditing Whether Wearable-Health Evaluations Can Support Their Claims",
+    "authors": [
+      "Jaden Moon",
+      "Yu Yvonne Wu",
+      "Andrew Campbell"
+    ],
+    "url": "https://openreview.net/forum?id=nfK5CJlXnW"
+  },
+  {
+    "number": 483,
+    "title": "Benchmark Error Tracks the Perturbation, Not the Construct",
+    "authors": [
+      "Hyunoh Yeo"
+    ],
+    "url": "https://openreview.net/forum?id=hGrv0S2IYw"
+  },
+  {
+    "number": 485,
+    "title": "When Does a Software-Agent Benchmark Measure Engineering Judgment? A Construct and Task-Distribution Audit",
+    "authors": [
+      "Sushant Mehta"
+    ],
+    "url": "https://openreview.net/forum?id=KuMsmze65T"
+  },
+  {
+    "number": 486,
+    "title": "The Retrieval-Robustness Paradox: Data Poisoning in Retrieval-Dependent Domains",
+    "authors": [
+      "James Zhou",
+      "Evan Chen",
+      "Wei Zou"
+    ],
+    "url": "https://openreview.net/forum?id=e5OGGhoyHt"
+  },
+  {
+    "number": 487,
+    "title": "The Probability Term in Motion Forecasting Benchmarks Is Not a Calibration Score",
+    "authors": [
+      "Jaewoong Yoo",
+      "Ganzorig Gankhuyag",
+      "Jin-Man Park",
+      "Haengseon Son",
+      "Kyoungwon Min"
+    ],
+    "url": "https://openreview.net/forum?id=2QWM0fXEo7"
+  },
+  {
+    "number": 488,
+    "title": "RankShift: Evaluating Ranking Instability Across Benchmark Dimensions in Document Parsing",
+    "authors": [
+      "Halimat Afolabi",
+      "Daeyoung Lee"
+    ],
+    "url": "https://openreview.net/forum?id=R8RI6YypKV"
+  },
+  {
+    "number": 498,
+    "title": "Task Informativeness in AI Evaluation Is Objective-Dependent",
+    "authors": [
+      "Victoria Kurakata"
+    ],
+    "url": "https://openreview.net/forum?id=6FfsxZF0Vy"
+  },
+  {
+    "number": 499,
+    "title": "Same Reasoning, Different Words: Testing Linguistic Invariance in Chain-of-Thought Monitoring",
+    "authors": [
+      "Joe Smith"
+    ],
+    "url": "https://openreview.net/forum?id=uul4iRQSJ2"
+  },
+  {
+    "number": 500,
+    "title": "Can We Trust Small Language Models as Judges?",
+    "authors": [
+      "Suchir Salhan",
+      "Mingchuan Zou",
+      "Paula Buttery"
+    ],
+    "url": "https://openreview.net/forum?id=6bM9MkX9xz"
+  },
+  {
+    "number": 501,
+    "title": "Shortcut Sensitivity in Agent-Safety Evaluations",
+    "authors": [
+      "Hasan Demirkiran",
+      "Jens Ernstberger"
+    ],
+    "url": "https://openreview.net/forum?id=IDTgteFueV"
+  },
+  {
+    "number": 502,
+    "title": "Spelling Drift Breaks Keyword Refusal Detectors",
+    "authors": [
+      "Sarthak Rawat",
+      "Vivek Chauhan"
+    ],
+    "url": "https://openreview.net/forum?id=CEekqS91YX"
+  },
+  {
+    "number": 504,
+    "title": "MemoReason: Evaluating the Effect of Parametric Memory on Contextual Reasoning in LLMs",
+    "authors": [
+      "Zineddine Tighidet",
+      "Andrea Mogini",
+      "Jiali Mei",
+      "Patrick Gallinari",
+      "Benjamin Piwowarski"
+    ],
+    "url": "https://openreview.net/forum?id=pnjqIMQXum"
+  },
+  {
+    "number": 506,
+    "title": "What Does Multiple Choice Actually Measure? Disentangling Video Understanding from Option-Exploitation",
+    "authors": [
+      "Sepand Dyanatkar",
+      "Elliott Piercy",
+      "Justin Chan"
+    ],
+    "url": "https://openreview.net/forum?id=qshO3h92ds"
+  },
+  {
+    "number": 513,
+    "title": "What Can Activation Patching Actually Establish? Reachable-State Geometry and the Limits of Mechanistic Evidence",
+    "authors": [
+      "Ankush Kadu",
+      "Ananth Kalyanasundaram",
+      "Aswanth Krishnan"
+    ],
+    "url": "https://openreview.net/forum?id=Gfh4EJoWTV"
+  },
+  {
+    "number": 514,
+    "title": "When the Label Measures the Estimator: Threshold Leakage in Estimate-Scaled Evaluation Labels",
+    "authors": [
+      "Arush Gumber",
+      "Sidhant Gumber"
+    ],
+    "url": "https://openreview.net/forum?id=gJqq9RjLfv"
+  }
+]

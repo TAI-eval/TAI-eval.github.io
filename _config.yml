@@ -16,6 +16,7 @@ navbar-links:
   Call: "cfp"
   Speakers & Panelists: "speakers"
   Papers: "papers"
+  Reviewers: "reviewers"
   Schedule: "schedule"
 
 # --- Background colour/image options --- #

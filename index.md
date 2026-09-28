@@ -8,6 +8,24 @@ use-site-title: true
   NeurIPS 2026, Sydney, Australia, December 11 or 12, 2026
 </div>
 
+# News
+
+- **Sep 28, 2026:** Accepted papers are now available on the [Papers]({{ site.baseurl }}/papers/) page, with links to each paper on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/TAE). Thank you to all authors and [reviewers]({{ site.baseurl }}/reviewers/)!
+
+<hr>
+
+# Camera-Ready Instructions
+
+Congratulations to all authors of accepted papers! Please upload your camera-ready version through your submission's **Camera Ready Revision** button on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/TAE) by **October 31, 2026 (AoE)**. The public OpenReview page of your paper will be updated automatically.
+
+- Use the official [NeurIPS 2026 style file]({{ '/files/neurips_2026.sty' | relative_url }}) without modification.
+- Change the package line to `\usepackage[dblblindworkshop, final]{neurips_2026}`. The `final` option displays the workshop name in the first-page footer.
+- Keep your paper title in `\title{...}` and set `\workshoptitle{TAE (Trust-AI-Eval): Can We Trust AI Evaluation?}`.
+- Replace the anonymous author block with the final author names and affiliations.
+- Accepted papers are **non-archival** and will be presented in person as posters.
+
+<hr>
+
 # Overview
 
 Can we trust AI evaluation? Modern AI systems are judged through benchmarks, aggregate scores, and public leaderboards, yet trust in these evaluations is often assumed rather than demonstrated. An evaluation can be precise but measure the wrong construct, stable on a familiar benchmark but brittle on newly collected data, or impressive on a leaderboard while poorly aligned with real-world decisions. Repeated benchmark use, small perturbations, underreported variance, leakage, and contamination can further weaken the evidence behind evaluation claims. The **TAE (Trust-AI-Eval): Can We Trust AI Evaluation?** workshop treats evaluation itself as an object of study: what is measured, which assumptions connect a protocol to a claim, how uncertainty and failure modes are reported, and when the resulting evidence is strong enough to guide deployment. By bringing together work on robustness, causal and measurement validity, auditing, judge reliability, and deployment risk, the workshop aims to clarify when AI evaluation results deserve trust and how evaluation practices can become more reliable, transparent, and decision-relevant.
@@ -31,11 +49,12 @@ Accepted papers will be presented at the in-person poster session.
 
 ### Important Dates (Indicative)
 
-**Paper submission opens:** July 30, 2026 <br>
-**Paper submission deadline:** August 29, 2026 (AoE) <br>
-**Review deadline:** September 14, 2026 (AoE) <br>
-**Author notification:** September 22, 2026 (AoE) <br>
-**Final program posted:** September 27, 2026 <br>
+~~**Paper submission opens:** July 30, 2026~~ <br>
+~~**Paper submission deadline:** August 29, 2026 (AoE)~~ <br>
+~~**Review deadline:** September 14, 2026 (AoE)~~ <br>
+~~**Author notification:** September 22, 2026 (AoE)~~ <br>
+~~**Final program posted:** September 27, 2026~~ <br>
+**Camera-ready deadline:** October 31, 2026 (AoE) <br>
 **Workshop:** December 11 or 12, 2026
 
 

@@ -29,19 +29,19 @@ We invite submissions on topics including, but not limited to:
 
 ### Important Dates (Indicative)
 
-**Paper submission opens:** July 30, 2026 <br>
-**Paper submission deadline:** August 29, 2026 (AoE) <br>
-**Review deadline:** September 14, 2026 (AoE) <br>
-**Author notification:** September 22, 2026 (AoE) <br>
-**Final program posted:** September 27, 2026 <br>
+~~**Paper submission opens:** July 30, 2026~~ <br>
+~~**Paper submission deadline:** August 29, 2026 (AoE)~~ <br>
+~~**Review deadline:** September 14, 2026 (AoE)~~ <br>
+~~**Author notification:** September 22, 2026 (AoE)~~ <br>
+~~**Final program posted:** September 27, 2026~~ <br>
 **Workshop:** December 11 or 12, 2026
 
 
 ### Submission Requirements
 
-Submissions should be anonymized and prepared using the [official NeurIPS 2026 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip).
+Submissions should be anonymized and prepared using the [official NeurIPS 2026 LaTeX template](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip). Download the [NeurIPS 2026 style file]({{ '/files/neurips_2026.sty' | relative_url }}) and [TAE submission example]({{ '/files/tae_submission_example.tex' | relative_url }}); place both files in the same directory before compiling the example.
 
-Please use `\usepackage[dblblindworkshop]{neurips_2026}` for submission. For accepted camera-ready versions, please use `\usepackage[dblblindworkshop, final]{neurips_2026}`. The NeurIPS 2026 workshop template requires both `\title{}` and `\workshoptitle{}`; please set `\workshoptitle{TAE (Trust-AI-Eval): Can We Trust AI Evaluation?}`.
+Please use `\usepackage[dblblindworkshop]{neurips_2026}` for submission. For accepted camera-ready versions, use `\usepackage[dblblindworkshop, final]{neurips_2026}`. The NeurIPS 2026 workshop template requires both `\title{}` and `\workshoptitle{}`; please set `\workshoptitle{TAE (Trust-AI-Eval): Can We Trust AI Evaluation?}`.
 
 - **Full papers:** up to 8 pages, excluding references and appendices.
 - **Appendices:** allowed, with no page limit, but reviewers are not required to read appendices.
