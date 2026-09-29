@@ -22,6 +22,7 @@ Congratulations to all authors of accepted papers! Please upload your camera-rea
 - Change the package line to `\usepackage[dblblindworkshop, final]{neurips_2026}`. The `final` option displays the workshop name in the first-page footer.
 - Keep your paper title in `\title{...}` and set `\workshoptitle{TAE (Trust-AI-Eval): Can We Trust AI Evaluation?}`.
 - Replace the anonymous author block with the final author names and affiliations.
+- The camera-ready main text may be up to **10 pages** (2 more than the submission limit, to address reviewer feedback), excluding references and appendices.
 - Accepted papers are **non-archival** and will be presented in person as posters.
 
 <hr>
