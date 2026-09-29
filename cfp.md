@@ -44,7 +44,7 @@ Submissions should be anonymized and prepared using the [official NeurIPS 2026 L
 Please use `\usepackage[dblblindworkshop]{neurips_2026}` for submission. For accepted camera-ready versions, use `\usepackage[dblblindworkshop, final]{neurips_2026}`. The NeurIPS 2026 workshop template requires both `\title{}` and `\workshoptitle{}`; please set `\workshoptitle{TAE (Trust-AI-Eval): Can We Trust AI Evaluation?}`.
 
 - **Full papers:** up to 8 pages, excluding references and appendices.
-- **Camera-ready versions:** up to 10 content pages (including figures and tables), consistent with the NeurIPS 2026 Main and Evaluations & Datasets tracks; references and appendices do not count.
+- **Camera-ready versions:** up to 10 content pages (including figures and tables), consistent with the NeurIPS 2026 Main and Evaluations & Datasets tracks; the additional pages are intended for addressing reviewer comments. References and appendices do not count.
 - **Appendices:** allowed, with no page limit, but reviewers are not required to read appendices.
 
 All submissions must be submitted as a single PDF through OpenReview. The review process is double-blind, so please ensure that all papers are appropriately anonymized.
