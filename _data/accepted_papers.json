@@ -1288,7 +1288,7 @@
   },
   {
     "number": 310,
-    "title": "PriorBPB: Reducing the Target Length Confound of Bits-per-Byte While Improving Accuracy Prediction",
+    "title": "PriorBPB: Reducing the Answer Length Confound of Bits-per-Byte While Improving Accuracy Prediction",
     "authors": [
       "Thomas F Burns",
       "Prabhu Teja S",
@@ -1316,14 +1316,6 @@
       "Benjamin Li"
     ],
     "url": "https://openreview.net/forum?id=phE3iCLTGL"
-  },
-  {
-    "number": 313,
-    "title": "Can We Trust Coverage Measured on Actively Selected Labels? An ADMET Evaluation Audit",
-    "authors": [
-      "Lakshya Narula"
-    ],
-    "url": "https://openreview.net/forum?id=1EzRRP2FVN"
   },
   {
     "number": 315,
@@ -1370,18 +1362,6 @@
       "Maheep Chaudhary"
     ],
     "url": "https://openreview.net/forum?id=WcbzSR7NB9"
-  },
-  {
-    "number": 320,
-    "title": "Correct, Route, Calibrate: Efficient Preference Optimization from Noisy, Heterogeneous Human Feedback",
-    "authors": [
-      "Zhongming Xie",
-      "Zhenyu Zhao",
-      "Sui Huang",
-      "Xinwei Ma",
-      "Jingshen Wang"
-    ],
-    "url": "https://openreview.net/forum?id=iybvdfJ0I4"
   },
   {
     "number": 321,
@@ -1810,7 +1790,7 @@
   },
   {
     "number": 399,
-    "title": "Auditing Date Shift Invariance in Clinical Prediction Benchmarks",
+    "title": "Auditing and Enforcing Calendar-Shift Invariance in Clinical Prediction Models",
     "authors": [
       "Wenhao Maxwell Ren",
       "Everest Yang",
@@ -2084,18 +2064,6 @@
       "Tao Gu"
     ],
     "url": "https://openreview.net/forum?id=hvnTPAlx4T"
-  },
-  {
-    "number": 473,
-    "title": "Beyond Demographic Balance: Multi-Metric and Intersectional Evaluation of Fairness in MIMIC-IV Mortality Prediction",
-    "authors": [
-      "Abdullah Al Noman",
-      "Tahrima Hashem",
-      "Syed Muhammad Ibne Zulfiker",
-      "Rishov Paul",
-      "Tanzima Hashem"
-    ],
-    "url": "https://openreview.net/forum?id=fepdHtGy55"
   },
   {
     "number": 474,
