@@ -11,7 +11,7 @@ use-site-title: true
 
 # News
 
-- **Oct 8, 2026:** Our workshop date and location are confirmed: **Saturday, December 12, 2026, 08:00–17:00 AEDT**, in **MR C2.2 & C2.3, Sydney, Australia**. All accepted papers have been imported into the [NeurIPS portal](https://neurips.cc/virtual/2026/loc/sydney/workshop/137525), where authors should now be able to view their papers.
+- **Oct 8, 2026:** Our workshop date and location are confirmed: **Saturday, December 12, 2026, 08:00–17:00 AEDT**, in **MR C2.2 & C2.3, Sydney, Australia**. All accepted papers have been imported into the [NeurIPS portal](https://neurips.cc/virtual/2026/loc/sydney/workshop/137525).
 
 - **Sep 28, 2026:** Accepted papers are now available on the [Papers]({{ site.baseurl }}/papers/) page, with links to each paper on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/TAE). Thank you to all authors and [reviewers]({{ site.baseurl }}/reviewers/)!
 
