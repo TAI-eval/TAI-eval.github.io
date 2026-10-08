@@ -5,10 +5,12 @@ subtitle: "Robustness, Causality, and Risk in Modern AI Assessment"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  NeurIPS 2026, Sydney, Australia, December 11 or 12, 2026
+  NeurIPS 2026, Sydney, Australia, December 12, 2026
 </div>
 
 # Schedule
+
+**Saturday, December 12, 2026, 08:00–17:00 AEDT (Sydney local time).** See the [official NeurIPS workshop page](https://neurips.cc/virtual/2026/loc/sydney/workshop/137525).
 
 
 

@@ -5,7 +5,7 @@ subtitle: "Robustness, Causality, and Risk in Modern AI Assessment"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  NeurIPS 2026, Sydney, Australia, December 11 or 12, 2026
+  NeurIPS 2026, Sydney, Australia, December 12, 2026
 </div>
 
 
@@ -34,7 +34,7 @@ We invite submissions on topics including, but not limited to:
 ~~**Review deadline:** September 14, 2026 (AoE)~~ <br>
 ~~**Author notification:** September 22, 2026 (AoE)~~ <br>
 ~~**Final program posted:** September 27, 2026~~ <br>
-**Workshop:** December 11 or 12, 2026
+**Workshop:** December 12, 2026, 08:00–17:00 AEDT (Sydney local time)
 
 
 ### Submission Requirements
