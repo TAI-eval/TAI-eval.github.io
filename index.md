@@ -17,6 +17,18 @@ use-site-title: true
 
 <hr>
 
+# Poster Instructions
+
+The following [official NeurIPS poster display instructions](https://neurips.cc/Conferences/2026/PosterInstructions) apply to our workshop in **Sydney**:
+
+- **Poster size: 61 cm (W) × 85 cm (H), portrait format.** Do not print your poster larger than this size.
+- Authors are **not permitted to hang posters on any venue walls**, including those in the workshop room.
+- Allocated poster boards will be available near the workshop room.
+- Use **only venue-approved Command strips**, available for authors to pick up in the workshop room. Use **one strip per corner** of your poster.
+- **Take your poster down after your poster session**, as many workshops have multiple sessions in one day.
+
+<hr>
+
 # Camera-Ready Instructions
 
 Congratulations to all authors of accepted papers! Please upload your camera-ready version through your submission's **Camera Ready Revision** button on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/TAE) by **October 31, 2026 (AoE)**. The public OpenReview page of your paper will be updated automatically.
