@@ -25,3 +25,19 @@ james_bailey:
   affiliation: "Monash University"
   img: "people/james-bailey.webp"
   bio: "James Bailey is a Professor and Head of Department of Data Science and Artificial Intelligence at Monash University. He has previously been an Australian Research Council Future Fellow and is a researcher in the field of machine learning and artificial intelligence, including interdisciplinary applications and operational frameworks. His interests particularly relate to the assurance, certification and safety of systems based on machine learning and artificial intelligence. He works on the deployment of AI systems in collaboration with a wide range of industry and government partners."
+
+# Official biography and portrait: https://www.aisafetyforum.au/people/kate-conroy-cmqknj8jg0
+kate_conroy:
+  name: "Kate Conroy"
+  url: "https://www.directory.gov.au/people/kate-conroy"
+  affiliation: "Australian AI Safety Institute"
+  img: "people/kate-conroy.jpg"
+  bio: '<q>Dr Kate Conroy is General Manager of the Australian AI Safety Institute&hellip;</q> <a href="https://www.aisafetyforum.au/people/kate-conroy-cmqknj8jg0">Full official biography (AI Safety Forum)</a>.'
+
+# Official biography and portrait: https://www.gradientinstitute.org/about-us/people/tiberio-caetano
+tiberio_caetano:
+  name: "Tiberio Caetano"
+  url: "https://www.gradientinstitute.org/about-us/people/tiberio-caetano"
+  affiliation: "Gradient Institute"
+  img: "people/tiberio-caetano.jpg"
+  bio: '<q>Tiberio is Co-Founder and Chief Scientist of Gradient Institute.</q> <a href="https://www.gradientinstitute.org/about-us/people/tiberio-caetano">Full official biography (Gradient Institute)</a>.'
