@@ -40,4 +40,9 @@ tiberio_caetano:
   url: "https://www.gradientinstitute.org/about-us/people/tiberio-caetano"
   affiliation: "Gradient Institute"
   img: "people/tiberio-caetano.jpg"
-  bio: '<q>Tiberio is Co-Founder and Chief Scientist of Gradient Institute.</q> <a href="https://www.gradientinstitute.org/about-us/people/tiberio-caetano">Full official biography (Gradient Institute)</a>.'
+  bio_paragraphs:
+    - "Tiberio is Co-Founder and Chief Scientist of Gradient Institute."
+    - "He has spent more than 25 years working in machine learning and AI in numerous capacities: as a scientist, researcher, research leader, professor, entrepreneur, advisor, mentor, and field builder."
+    - "For the past decade, he has worked to establish AI ethics, safety, and governance as serious societal concerns. In 2019 he co-founded Gradient Institute, Australia's first independent non-profit dedicated to this work. At Gradient he leads research and advises governments, industry, and civil society on AI policy and practice."
+    - "Before Gradient Institute, he co-founded Ambiata, which was acquired by Insurance Australia Group in 2014. At Ambiata, he led the design of algorithms for automated decision-making across insurance, banking, telecommunications, retail, and media. Early in his career, he held research positions across three continents, published over 60 papers in leading academic journals and conferences, supervised over 20 PhD and honours students, and led machine learning research at Australia's NICTA. Tiberio holds an Honorary Professorship at the Australian National University."
+    - "Shaped by a background in physics and a sustained contemplative practice in the Buddhist tradition, Tiberio brings a scientific sensibility and contemplative inquiry to his work. Together they animate how he engages with the world."

@@ -7,7 +7,11 @@
   <div class="speaker-bio-text">
     <a href="{{ include.p[1].url }}">{{ include.p[1].name }}</a>
     <div>{{ include.p[1].affiliation }}</div>
-    {% if include.p[1].bio and include.p[1].bio != "" %}
+    {% if include.p[1].bio_paragraphs %}
+    {% for paragraph in include.p[1].bio_paragraphs %}
+    <p>{{ paragraph }}</p>
+    {% endfor %}
+    {% elsif include.p[1].bio and include.p[1].bio != "" %}
     <p>{{ include.p[1].bio }}</p>
     {% else %}
     <p class="speaker-bio-placeholder">Bio coming soon.</p>
