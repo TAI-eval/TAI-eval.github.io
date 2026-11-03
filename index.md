@@ -31,7 +31,7 @@ The following [official NeurIPS poster display instructions](https://neurips.cc/
 
 # Camera-Ready Instructions
 
-Congratulations to all authors of accepted papers! Please upload your camera-ready version through your submission's **Camera Ready Revision** button on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/TAE) by **October 31, 2026 (AoE)**. The public OpenReview page of your paper will be updated automatically.
+Congratulations to all authors of accepted papers! Please upload your camera-ready version through your submission's **Camera Ready Revision** button on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/TAE) by **November 6, 2026 (AoE)**. The public OpenReview page of your paper will be updated automatically.
 
 - Use the official [NeurIPS 2026 style file]({{ '/files/neurips_2026.sty' | relative_url }}) without modification.
 - Change the package line to `\usepackage[dblblindworkshop, final]{neurips_2026}`. The `final` option displays the workshop name in the first-page footer.
@@ -70,7 +70,7 @@ Accepted papers will be presented at the in-person poster session.
 ~~**Review deadline:** September 14, 2026 (AoE)~~ <br>
 ~~**Author notification:** September 22, 2026 (AoE)~~ <br>
 ~~**Final program posted:** September 27, 2026~~ <br>
-**Camera-ready deadline:** October 31, 2026 (AoE) <br>
+**Camera-ready deadline:** November 6, 2026 (AoE) <br>
 **Workshop:** December 12, 2026, 08:00–17:00 AEDT (Sydney local time)
 
 
