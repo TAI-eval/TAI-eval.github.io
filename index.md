@@ -79,7 +79,8 @@ Accepted papers will be presented at the in-person poster session.
 # Confirmed Speakers & Panelists
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
-    {% for p in site.data.speakers %}
+    {% assign sorted_speakers = site.data.speakers | sort %}
+    {% for p in sorted_speakers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endfor %}

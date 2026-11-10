@@ -12,6 +12,7 @@ use-site-title: true
 
 # Confirmed Speakers & Panelists
 
-{% for p in site.data.speakers %}
+{% assign sorted_speakers = site.data.speakers | sort %}
+{% for p in sorted_speakers %}
 {% include speaker-bio.html p=p %}
 {% endfor %}
