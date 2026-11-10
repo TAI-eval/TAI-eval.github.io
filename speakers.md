@@ -12,9 +12,6 @@ use-site-title: true
 
 # Confirmed Speakers & Panelists
 
-Listed in alphabetical order by first name.
-
-{% assign sorted_speakers = site.data.speakers | sort %}
-{% for p in sorted_speakers %}
+{% for p in site.data.speakers %}
 {% include speaker-bio.html p=p %}
 {% endfor %}
