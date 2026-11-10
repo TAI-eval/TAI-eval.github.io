@@ -383,15 +383,13 @@ th {
   line-height: 1.5;
 }
 
-.speaker-grid,
-.organizer-grid {
+.speaker-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 24px 12px;
 }
 
-.speaker-grid > div,
-.organizer-grid > div {
+.speaker-grid > div {
   float: none;
   width: auto;
   height: auto !important;
@@ -400,8 +398,7 @@ th {
   overflow-wrap: anywhere;
 }
 
-.speaker-grid .img-circle,
-.organizer-grid .img-circle {
+.speaker-grid .img-circle {
   width: calc(100% - 10px) !important;
   height: auto !important;
   max-width: 140px;
@@ -409,8 +406,7 @@ th {
 }
 
 @media (min-width: 768px) {
-  .speaker-grid,
-  .organizer-grid {
+  .speaker-grid {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }
@@ -418,9 +414,5 @@ th {
 @media (min-width: 992px) {
   .speaker-grid {
     grid-template-columns: repeat(7, minmax(0, 1fr));
-  }
-
-  .organizer-grid {
-    grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 }
