@@ -99,7 +99,7 @@ Talk titles and panel details will be announced after the final program is confi
 # Organizers
 
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
-  <div class="row">
+  <div class="organizer-grid">
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
