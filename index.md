@@ -114,6 +114,7 @@ Talk titles and panel details will be announced after the final program is confi
 <div class="sponsor-logos">
   <a href="https://www.melbconnect.com.au/" target="_blank"><img alt="Melbourne Connect" src="img/melbourne-connect-only-logo.png" /></a>
   <a href="https://www.unimelb.edu.au/" target="_blank"><img alt="The University of Melbourne" src="img/unimelb-logo.svg" /></a>
+  <a href="https://www.iaseai.org/" target="_blank" rel="noopener"><img alt="IASEAI — International Association for Safe and Ethical AI" src="img/iaseai-logo.png" width="280" /></a>
 </div>
 
 <hr>
