@@ -409,7 +409,10 @@ th {
 }
 
 @media (min-width: 768px) {
-  .speaker-grid,
+  .speaker-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .organizer-grid {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
