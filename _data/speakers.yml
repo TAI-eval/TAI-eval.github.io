@@ -61,3 +61,11 @@ zoe_hawkins:
   affiliation: "Tech Policy Design Institute (TPDi)"
   img: "people/zoe-hawkins.jpg"
   bio: "Zoe Jay Hawkins is Co-Founder and Deputy Executive Director of the Tech Policy Design Institute (TPDi), an independent, non-partisan think tank dedicated to technology policy. She brings experience across government, industry, academia, and think tanks. She previously worked for the Australian Government across communications, innovation, and foreign policy portfolios, both as an adviser to Cabinet Ministers and in the public service. At Amazon, she led digital policy initiatives and represented the company in international organisations. She is also a Research Associate at the University of Oxford and an expert researcher for the OECD."
+
+# Biography and portrait: https://research-repository.uwa.edu.au/en/persons/timothy-rutherford/
+tim_rutherford:
+  name: "Tim Rutherford"
+  url: "https://research-repository.uwa.edu.au/en/persons/timothy-rutherford/"
+  affiliation: "University of Western Australia"
+  img: "people/tim-rutherford.jpg"
+  bio: "Tim Rutherford is an Adjunct Professor within the Defence and Security Institute at the University of Western Australia and Head of Impact Missions at the Minderoo Foundation. He is a retired senior officer in the Australian Army and a former senior executive within the Department of the Prime Minister and Cabinet. He has extensive experience in intelligence, surveillance, and reconnaissance, from the team to the geostrategic level, across Australia, Europe, Central Asia, and Africa. He is also an Expert Associate at the Australian National University's National Security College, with interests in cultural adaptation strategies, frontier technology, and international law."
