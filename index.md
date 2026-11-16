@@ -4,7 +4,7 @@ title: Can We Trust AI Evaluation?
 subtitle: "Robustness, Causality, and Risk in Modern AI Assessment"
 use-site-title: true
 css:
-  - "/assets/css/custom.css?v=portraits-2"
+  - "/assets/css/custom.css?v=portraits-3"
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   NeurIPS 2026, Sydney, Australia, December 12, 2026
@@ -78,7 +78,7 @@ Accepted papers will be presented at the in-person poster session.
 
 <hr>
 
-# Confirmed Speakers & Panelists
+# Confirmed Speakers and Panelists
 
 Listed in alphabetical order by first name.
 

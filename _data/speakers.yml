@@ -53,3 +53,11 @@ jindong_gu:
   affiliation: "Google DeepMind"
   img: "people/jindong-gu.jpg"
   bio: "Jindong Gu is a Senior Research Scientist at Google DeepMind and is affiliated with the University of Oxford as a principal investigator. His research focuses on advancing AI's ability to understand multimodal and multi-format inputs, including text, images, audio, 3D, and scientific formulas, while ensuring that its outputs remain helpful, harmless, and aligned. Previously, he worked on foundation model safety in the Gemini Safety team at Google DeepMind. His current work in the CAIR team focuses on improving the reliability and robustness of AI agents. His research goal is to build responsible AGI through reliable and aligned perception, multimodal understanding and reasoning, and agentic action."
+
+# Biography: https://techpolicy.au/about-us/ and https://oecd.ai/en/community/zoe-hawkins
+zoe_hawkins:
+  name: "Zoe Jay Hawkins"
+  url: "https://www.linkedin.com/in/zoe-hawkins/"
+  affiliation: "Tech Policy Design Institute (TPDi)"
+  img: "people/zoe-hawkins.jpg"
+  bio: "Zoe Jay Hawkins is Co-Founder and Deputy Executive Director of the Tech Policy Design Institute (TPDi), an independent, non-partisan think tank dedicated to technology policy. She brings experience across government, industry, academia, and think tanks. She previously worked for the Australian Government across communications, innovation, and foreign policy portfolios, both as an adviser to Cabinet Ministers and in the public service. At Amazon, she led digital policy initiatives and represented the company in international organisations. She is also a Research Associate at the University of Oxford and an expert researcher for the OECD."

@@ -10,7 +10,7 @@ use-site-title: true
 <p style="text-align: center;">Room: MR C2.2 &amp; C2.3 &middot; <a href="https://neurips.cc/virtual/2026/loc/sydney/workshop/137525">Official NeurIPS workshop page</a></p>
 
 
-# Confirmed Speakers & Panelists
+# Confirmed Speakers and Panelists
 
 Listed in alphabetical order by first name.
 
